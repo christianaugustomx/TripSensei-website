@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy — TripSensei</title>
+  <meta name="description" content="TripSensei privacy policy. Learn how we protect your information.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #faf9f7;
+      --bg-warm: #f5f0eb;
+      --text: #1a1a2e;
+      --text-secondary: #64607a;
+      --text-muted: #9994a8;
+      --teal: #0d9488;
+      --teal-dark: #0f766e;
+      --teal-light: #ccfbf1;
+      --border: rgba(26, 26, 46, 0.08);
+      --radius: 12px;
+    }
+
+    body {
+      font-family: 'DM Sans', -apple-system, sans-serif;
+      color: var(--text-secondary);
+      background: var(--bg);
+      line-height: 1.75;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(250, 249, 247, 0.92);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+    }
+    .nav-inner {
+      max-width: 720px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+    }
+    .logo {
+      font-family: 'Playfair Display', serif;
+      font-weight: 700;
+      font-size: 1.3rem;
+      color: var(--text);
+      text-decoration: none;
+    }
+    .logo span { color: var(--teal); }
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .lang-link {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      text-decoration: none;
+      font-weight: 500;
+      border: 1px solid var(--border);
+      padding: 3px 10px;
+      border-radius: 50px;
+    }
+    .lang-link:hover { color: var(--teal); border-color: var(--teal); }
+    .back-link {
+      font-size: 0.85rem;
+      color: var(--teal);
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .back-link:hover { text-decoration: underline; }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 48px 24px 80px;
+    }
+
+    .page-header {
+      margin-bottom: 36px;
+      padding-bottom: 28px;
+      border-bottom: 1px solid var(--border);
+    }
+    .badge {
+      display: inline-block;
+      background: var(--teal-light);
+      color: var(--teal-dark);
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 4px 12px;
+      border-radius: 50px;
+      margin-bottom: 14px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+    h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.6rem, 4vw, 2.1rem);
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.2;
+      margin-bottom: 10px;
+    }
+    .update-date { font-size: 0.82rem; color: var(--text-muted); }
+
+    section { margin-bottom: 36px; }
+    h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 10px;
+    }
+    p { font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 10px; }
+    ul { padding-left: 20px; margin-bottom: 10px; }
+    li { font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 5px; }
+    strong { color: var(--text); }
+    a { color: var(--teal); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .highlight-box {
+      background: var(--teal-light);
+      border: 1px solid rgba(13, 148, 136, 0.2);
+      border-radius: var(--radius);
+      padding: 18px 22px;
+      margin: 20px 0;
+    }
+    .highlight-box p { margin: 0; font-size: 0.85rem; }
+    .highlight-box strong { color: var(--teal-dark); }
+
+    .contact-box {
+      background: var(--bg-warm);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px;
+      margin-top: 36px;
+    }
+    .contact-box h2 { margin-bottom: 6px; }
+    .contact-box p { margin: 0; font-size: 0.85rem; }
+
+    footer {
+      text-align: center;
+      padding: 28px 24px;
+      border-top: 1px solid var(--border);
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--teal); }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <a href="index.html" class="logo">Trip<span>Sensei</span></a>
+    <div class="nav-right">
+      <a href="privacidad.html" class="lang-link">Espanol</a>
+      <a href="index.html" class="back-link">&larr; Home</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+
+  <div class="page-header">
+    <div class="badge">Privacy</div>
+    <h1>Privacy Policy</h1>
+    <p class="update-date">Last updated: April 3, 2026</p>
+  </div>
+
+  <div class="highlight-box">
+    <p><strong>One-line summary:</strong> We collect your WhatsApp number and travel destination to send you personalized tips. We don't sell your data. You can unsubscribe anytime by sending <strong>STOP</strong>.</p>
+  </div>
+
+  <section>
+    <h2>1. Who we are</h2>
+    <p>TripSensei is a WhatsApp-based travel concierge service operated under the trade name <strong>TripSensei</strong>. Contact us at <a href="mailto:hola@tripsensei.com">hola@tripsensei.com</a>.</p>
+    <p>This policy applies to all users who interact with the TripSensei WhatsApp agent or visit this website.</p>
+  </section>
+
+  <section>
+    <h2>2. Data we collect</h2>
+    <p>When you use TripSensei, we collect only:</p>
+    <ul>
+      <li><strong>WhatsApp phone number</strong> — required to send you messages and identify you.</li>
+      <li><strong>Trip information</strong> — destination, departure and return dates, as you provide them in the chat.</li>
+      <li><strong>Messages sent to the agent</strong> — questions and conversations, to generate relevant responses.</li>
+      <li><strong>Tip ratings</strong> — if you send 👍 or 👎 to rate the tips you receive.</li>
+      <li><strong>Payment reference</strong> — if you purchase a plan, the payment provider processes your card data. TripSensei <strong>does not store card data</strong>.</li>
+    </ul>
+    <p>We do not collect geolocation, contact lists, or any other data beyond what is described above.</p>
+  </section>
+
+  <section>
+    <h2>3. How we use your data</h2>
+    <p>We use the collected information exclusively to:</p>
+    <ul>
+      <li>Send you personalized travel tips before and during your trip.</li>
+      <li>Answer your questions about your destination in real time.</li>
+      <li>Send you urgent alerts about weather conditions or security advisories.</li>
+      <li>Manage your access plan (free or paid).</li>
+      <li>Improve the quality of tips based on your ratings.</li>
+    </ul>
+    <p>We do not use your data for advertising. We do not share it with third parties for commercial purposes. We do not sell it.</p>
+  </section>
+
+  <section>
+    <h2>4. Consent (opt-in)</h2>
+    <p>TripSensei operates on a <strong>user-initiated opt-in model</strong>: the service only starts when <em>you</em> send us the first message on WhatsApp. By doing so, you agree to receive messages related to your trip.</p>
+    <p>This model complies with WhatsApp Business API requirements and Meta's commercial communications policy.</p>
+    <p>At any time, you can send <strong>STOP</strong> or <strong>UNSUBSCRIBE</strong> to stop receiving messages. We process unsubscriptions within 24 hours.</p>
+  </section>
+
+  <section>
+    <h2>5. Third-party providers with data access</h2>
+    <p>To operate the service, we share minimal technical data with the following providers:</p>
+    <ul>
+      <li><strong>Twilio</strong> — WhatsApp Business API infrastructure.</li>
+      <li><strong>Meta (WhatsApp)</strong> — messaging platform. Their own terms apply.</li>
+      <li><strong>Anthropic (Claude)</strong> — AI-powered response generation. Does not retain conversations after generating a response.</li>
+      <li><strong>Supabase</strong> — secure database (U.S.-based servers).</li>
+      <li><strong>Mercado Pago / PayPal</strong> — payment processors for access plans.</li>
+    </ul>
+    <p>None of these providers are authorized to use your data for their own commercial purposes.</p>
+  </section>
+
+  <section>
+    <h2>6. Data retention</h2>
+    <p>We retain your data while the service is active. If you have not interacted with TripSensei for <strong>12 months</strong>, we automatically delete your information.</p>
+    <p>You can request immediate deletion by sending <strong>DELETE MY DATA</strong> in the chat or emailing <a href="mailto:hola@tripsensei.com">hola@tripsensei.com</a>.</p>
+  </section>
+
+  <section>
+    <h2>7. Your rights (ARCO)</h2>
+    <p>In accordance with Mexico's Federal Law on Protection of Personal Data Held by Private Parties, you have the right to:</p>
+    <ul>
+      <li><strong>Access</strong> — know what data we hold about you.</li>
+      <li><strong>Rectification</strong> — correct inaccurate data.</li>
+      <li><strong>Cancellation</strong> — request deletion of your data.</li>
+      <li><strong>Opposition</strong> — object to specific uses of your data.</li>
+    </ul>
+    <p>To exercise your rights, email <a href="mailto:hola@tripsensei.com">hola@tripsensei.com</a> with the subject "ARCO Rights". We respond within 15 business days.</p>
+  </section>
+
+  <section>
+    <h2>8. Security</h2>
+    <ul>
+      <li>All data transmission is encrypted via HTTPS/TLS.</li>
+      <li>Database secured with Row Level Security — each record is only accessible by authorized systems.</li>
+      <li>Data access is limited to strictly necessary technical staff.</li>
+      <li>Credentials are stored in environment variables, never in code.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>9. Children</h2>
+    <p>TripSensei is not intended for children under 13. If you are a parent or guardian and believe a minor has provided personal information, contact us at <a href="mailto:hola@tripsensei.com">hola@tripsensei.com</a> and we will delete it immediately.</p>
+  </section>
+
+  <section>
+    <h2>10. Changes to this policy</h2>
+    <p>We may update this policy from time to time. We will update the date at the top. If the changes are significant, we will notify you via WhatsApp.</p>
+  </section>
+
+  <div class="contact-box">
+    <h2>Questions?</h2>
+    <p>Email us at <a href="mailto:hola@tripsensei.com">hola@tripsensei.com</a> or message the agent directly on WhatsApp. We respond within 24 hours.</p>
+  </div>
+
+</div>
+
+<footer>
+  &copy; 2026 TripSensei &middot; <a href="index.html">Home</a> &middot; <a href="terms.html">Terms</a> &middot; <a href="mailto:hola@tripsensei.com">Contact</a>
+</footer>
+
+</body>
+</html>

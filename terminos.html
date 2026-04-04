@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Terminos y Condiciones — TripSensei</title>
+  <meta name="description" content="Terminos y condiciones de uso de TripSensei, tu concierge de viaje en WhatsApp.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #faf9f7;
+      --bg-warm: #f5f0eb;
+      --text: #1a1a2e;
+      --text-secondary: #64607a;
+      --text-muted: #9994a8;
+      --teal: #0d9488;
+      --teal-dark: #0f766e;
+      --teal-light: #ccfbf1;
+      --border: rgba(26, 26, 46, 0.08);
+      --radius: 12px;
+    }
+
+    body {
+      font-family: 'DM Sans', -apple-system, sans-serif;
+      color: var(--text-secondary);
+      background: var(--bg);
+      line-height: 1.75;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(250, 249, 247, 0.92);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+    }
+    .nav-inner {
+      max-width: 720px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+    }
+    .logo {
+      font-family: 'Playfair Display', serif;
+      font-weight: 700;
+      font-size: 1.3rem;
+      color: var(--text);
+      text-decoration: none;
+    }
+    .logo span { color: var(--teal); }
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .lang-link {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      text-decoration: none;
+      font-weight: 500;
+      border: 1px solid var(--border);
+      padding: 3px 10px;
+      border-radius: 50px;
+    }
+    .lang-link:hover { color: var(--teal); border-color: var(--teal); }
+    .back-link {
+      font-size: 0.85rem;
+      color: var(--teal);
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .back-link:hover { text-decoration: underline; }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 48px 24px 80px;
+    }
+
+    .page-header {
+      margin-bottom: 36px;
+      padding-bottom: 28px;
+      border-bottom: 1px solid var(--border);
+    }
+    .badge {
+      display: inline-block;
+      background: var(--teal-light);
+      color: var(--teal-dark);
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 4px 12px;
+      border-radius: 50px;
+      margin-bottom: 14px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+    h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.6rem, 4vw, 2.1rem);
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.2;
+      margin-bottom: 10px;
+    }
+    .update-date { font-size: 0.82rem; color: var(--text-muted); }
+
+    section { margin-bottom: 36px; }
+    h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 10px;
+    }
+    p { font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 10px; }
+    ul { padding-left: 20px; margin-bottom: 10px; }
+    li { font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 5px; }
+    strong { color: var(--text); }
+    a { color: var(--teal); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .highlight-box {
+      background: var(--teal-light);
+      border: 1px solid rgba(13, 148, 136, 0.2);
+      border-radius: var(--radius);
+      padding: 18px 22px;
+      margin: 20px 0;
+    }
+    .highlight-box p { margin: 0; font-size: 0.85rem; }
+    .highlight-box strong { color: var(--teal-dark); }
+
+    .contact-box {
+      background: var(--bg-warm);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px;
+      margin-top: 36px;
+    }
+    .contact-box h2 { margin-bottom: 6px; }
+    .contact-box p { margin: 0; font-size: 0.85rem; }
+
+    footer {
+      text-align: center;
+      padding: 28px 24px;
+      border-top: 1px solid var(--border);
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--teal); }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <a href="index.html" class="logo">Trip<span>Sensei</span></a>
+    <div class="nav-right">
+      <a href="terms.html" class="lang-link">English</a>
+      <a href="index.html" class="back-link">&larr; Inicio</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+
+  <div class="page-header">
+    <div class="badge">Legal</div>
+    <h1>Terminos y Condiciones</h1>
+    <p class="update-date">Ultima actualizacion: 3 de abril de 2026</p>
+  </div>
+
+  <div class="highlight-box">
+    <p><strong>Resumen:</strong> TripSensei es un agente de IA en WhatsApp que te envia tips de viaje. El servicio inicia cuando nos escribes. Los planes son pagos unicos, sin suscripciones. Los tips son informativos, no sustituyen asesoria profesional.</p>
+  </div>
+
+  <section>
+    <h2>1. Aceptacion de los terminos</h2>
+    <p>Al enviar un mensaje a TripSensei por WhatsApp o al usar este sitio web, aceptas estos terminos y condiciones. Si no estas de acuerdo, simplemente no uses el servicio.</p>
+    <p>TripSensei se reserva el derecho de modificar estos terminos. Cualquier cambio significativo sera notificado a los usuarios activos via WhatsApp.</p>
+  </section>
+
+  <section>
+    <h2>2. Descripcion del servicio</h2>
+    <p>TripSensei es un agente de inteligencia artificial que opera dentro de WhatsApp y proporciona:</p>
+    <ul>
+      <li>Tips de viaje personalizados basados en tu destino y fechas.</li>
+      <li>Respuestas a preguntas sobre tu destino en tiempo real.</li>
+      <li>Alertas climaticas y de seguridad para tu destino.</li>
+      <li>Links de Google Maps para las recomendaciones.</li>
+      <li>Informacion de tipo de cambio, visa y requisitos de entrada.</li>
+    </ul>
+    <p>El servicio se activa cuando el usuario envia el primer mensaje. No requiere descarga de aplicaciones, creacion de cuentas ni registro previo.</p>
+  </section>
+
+  <section>
+    <h2>3. Planes y pagos</h2>
+    <p>TripSensei ofrece los siguientes planes de acceso:</p>
+    <ul>
+      <li><strong>Dia gratis</strong> — tu primer dia incluye tips y preguntas ilimitadas sin costo ni tarjeta.</li>
+      <li><strong>3 dias</strong> — $29 MXN (~$1.99 USD)</li>
+      <li><strong>7 dias</strong> — $49 MXN (~$2.99 USD)</li>
+      <li><strong>15 dias</strong> — $79 MXN (~$4.99 USD)</li>
+      <li><strong>30 dias</strong> — $129 MXN (~$7.99 USD)</li>
+    </ul>
+    <p>Cada plan es un <strong>pago unico</strong>. No hay suscripciones, no hay cobros automaticos ni renovacion automatica. El plan se activa al momento del pago y expira al completar los dias contratados.</p>
+    <p>Los pagos se procesan a traves de <strong>Mercado Pago</strong> (OXXO, SPEI, tarjeta) o <strong>PayPal</strong>. TripSensei no almacena datos de tarjetas de credito o debito.</p>
+    <p>Los precios estan sujetos a cambios. El precio vigente sera el publicado al momento de la compra.</p>
+  </section>
+
+  <section>
+    <h2>4. Politica de reembolsos</h2>
+    <p>Debido a la naturaleza digital e inmediata del servicio (los tips se entregan al instante), <strong>no se ofrecen reembolsos</strong> una vez activado un plan.</p>
+    <p>Si experimentas un problema tecnico que impida el uso del servicio, contactanos en <a href="mailto:hola@tripsensei.com">hola@tripsensei.com</a> y evaluaremos tu caso individualmente.</p>
+  </section>
+
+  <section>
+    <h2>5. Uso aceptable</h2>
+    <p>Al usar TripSensei, te comprometes a:</p>
+    <ul>
+      <li>Usar el servicio exclusivamente para fines personales de viaje.</li>
+      <li>No revender, redistribuir ni compartir comercialmente el contenido recibido.</li>
+      <li>No intentar manipular, hackear o interferir con el funcionamiento del agente.</li>
+      <li>No enviar contenido ofensivo, ilegal o abusivo a traves del chat.</li>
+      <li>No usar el servicio para fines que violen las leyes aplicables.</li>
+    </ul>
+    <p>TripSensei se reserva el derecho de suspender el acceso a usuarios que violen estas condiciones, sin obligacion de reembolso.</p>
+  </section>
+
+  <section>
+    <h2>6. Naturaleza del contenido</h2>
+    <p>Los tips, recomendaciones y respuestas proporcionados por TripSensei son <strong>informativos y generados por inteligencia artificial</strong>. Aunque nos esforzamos por proporcionar informacion precisa y actualizada:</p>
+    <ul>
+      <li>Los tips <strong>no constituyen asesoria profesional</strong> de viaje, legal, medica ni financiera.</li>
+      <li>Los precios, horarios y disponibilidad mencionados pueden cambiar sin previo aviso.</li>
+      <li>Las alertas climaticas y de seguridad son complementarias y no sustituyen fuentes oficiales.</li>
+      <li>Las recomendaciones de restaurantes, transporte y actividades reflejan informacion disponible al momento y pueden variar.</li>
+    </ul>
+    <p>El usuario es responsable de verificar la informacion critica (vuelos, visas, requisitos de entrada) con fuentes oficiales antes de tomar decisiones.</p>
+  </section>
+
+  <section>
+    <h2>7. Limitacion de responsabilidad</h2>
+    <p>TripSensei se proporciona "tal cual" (<em>as is</em>). En la maxima medida permitida por la ley:</p>
+    <ul>
+      <li>No garantizamos que el servicio estara disponible de forma ininterrumpida o libre de errores.</li>
+      <li>No somos responsables por decisiones tomadas con base en los tips proporcionados.</li>
+      <li>No somos responsables por perdidas economicas, danos directos o indirectos derivados del uso del servicio.</li>
+      <li>No somos responsables por interrupciones causadas por terceros (WhatsApp, proveedores de internet, etc.).</li>
+    </ul>
+    <p>La responsabilidad total de TripSensei en cualquier caso se limita al monto pagado por el usuario en los ultimos 30 dias.</p>
+  </section>
+
+  <section>
+    <h2>8. Propiedad intelectual</h2>
+    <p>Todo el contenido generado por TripSensei (tips, textos, recomendaciones) y el diseno de este sitio web son propiedad de TripSensei o sus licenciantes.</p>
+    <p>El usuario puede usar los tips recibidos para fines personales. Queda prohibida la reproduccion, distribucion o comercializacion del contenido sin autorizacion escrita.</p>
+    <p>Las marcas de terceros mencionadas (WhatsApp, Google Maps, etc.) pertenecen a sus respectivos propietarios.</p>
+  </section>
+
+  <section>
+    <h2>9. Disponibilidad del servicio</h2>
+    <p>TripSensei opera 24/7, pero pueden ocurrir interrupciones por:</p>
+    <ul>
+      <li>Mantenimiento programado o actualizaciones del sistema.</li>
+      <li>Interrupciones en la plataforma de WhatsApp o Twilio.</li>
+      <li>Eventos de fuerza mayor.</li>
+    </ul>
+    <p>En caso de interrupciones prolongadas que afecten un plan activo, TripSensei podra, a su discrecion, extender la duracion del plan afectado.</p>
+  </section>
+
+  <section>
+    <h2>10. Cancelacion y baja</h2>
+    <p>No hay suscripciones que cancelar. Los planes expiran automaticamente al completar los dias contratados.</p>
+    <p>Para dejar de recibir mensajes en cualquier momento, escribe <strong>STOP</strong> o <strong>BAJA</strong> en el chat. El servicio se desactivara en menos de 24 horas.</p>
+    <p>Para solicitar la eliminacion de tus datos, escribe <strong>ELIMINAR MIS DATOS</strong> o contactanos en <a href="mailto:hola@tripsensei.com">hola@tripsensei.com</a>.</p>
+  </section>
+
+  <section>
+    <h2>11. Privacidad</h2>
+    <p>El tratamiento de tus datos personales se rige por nuestro <a href="privacidad.html">Aviso de Privacidad</a>, que forma parte integral de estos terminos.</p>
+  </section>
+
+  <section>
+    <h2>12. Ley aplicable y jurisdiccion</h2>
+    <p>Estos terminos se rigen por las leyes de los Estados Unidos Mexicanos. Cualquier controversia sera sometida a los tribunales competentes de la Ciudad de Mexico, renunciando las partes a cualquier otro fuero que pudiera corresponderles.</p>
+  </section>
+
+  <section>
+    <h2>13. Contacto</h2>
+    <p>Para cualquier duda sobre estos terminos, contactanos en:</p>
+    <ul>
+      <li>Email: <a href="mailto:hola@tripsensei.com">hola@tripsensei.com</a></li>
+      <li>WhatsApp: directo al agente de TripSensei</li>
+    </ul>
+  </section>
+
+  <div class="contact-box">
+    <h2>Tienes preguntas?</h2>
+    <p>Escribenos a <a href="mailto:hola@tripsensei.com">hola@tripsensei.com</a> o directo al agente en WhatsApp. Respondemos en menos de 24 horas.</p>
+  </div>
+
+</div>
+
+<footer>
+  &copy; 2026 TripSensei &middot; <a href="index.html">Inicio</a> &middot; <a href="privacidad.html">Privacidad</a> &middot; <a href="mailto:hola@tripsensei.com">Contacto</a>
+</footer>
+
+</body>
+</html>
