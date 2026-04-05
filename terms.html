@@ -17,9 +17,9 @@
       --text: #1a1a2e;
       --text-secondary: #64607a;
       --text-muted: #9994a8;
-      --teal: #0d9488;
-      --teal-dark: #0f766e;
-      --teal-light: #ccfbf1;
+      --teal: #2563eb;
+      --teal-dark: #1d4ed8;
+      --teal-light: #dbeafe;
       --border: rgba(26, 26, 46, 0.08);
       --radius: 12px;
     }
@@ -50,7 +50,8 @@
       justify-content: space-between;
       height: 56px;
     }
-    .logo {
+    .logo { display: inline-flex; align-items: center; gap: 8px; }
+    .logo img { height: 34px; width: 34px; border-radius: 50%; object-fit: cover; }
       font-family: 'Playfair Display', serif;
       font-weight: 700;
       font-size: 1.3rem;
@@ -131,7 +132,7 @@
 
     .highlight-box {
       background: var(--teal-light);
-      border: 1px solid rgba(13, 148, 136, 0.2);
+      border: 1px solid rgba(37, 99, 235, 0.2);
       border-radius: var(--radius);
       padding: 18px 22px;
       margin: 20px 0;
@@ -164,7 +165,7 @@
 
 <nav>
   <div class="nav-inner">
-    <a href="index.html" class="logo">Trip<span>Sensei</span></a>
+    <a href="index.html" class="logo"><img src="TripSensei Logo.png" alt="TripSensei">Trip<span>Sensei</span></a>
     <div class="nav-right">
       <a href="terminos.html" class="lang-link">Espanol</a>
       <a href="index.html" class="back-link">&larr; Home</a>

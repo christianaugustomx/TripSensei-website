@@ -18,12 +18,12 @@
       --text: #1a1a2e;
       --text-secondary: #64607a;
       --text-muted: #9994a8;
-      --teal: #0d9488;
-      --teal-dark: #0f766e;
-      --teal-light: #ccfbf1;
-      --teal-glow: rgba(13, 148, 136, 0.08);
+      --teal: #2563eb;
+      --teal-dark: #1d4ed8;
+      --teal-light: #dbeafe;
+      --teal-glow: rgba(37, 99, 235, 0.08);
       --border: rgba(26, 26, 46, 0.08);
-      --border-hover: rgba(13, 148, 136, 0.3);
+      --border-hover: rgba(37, 99, 235, 0.3);
       --shadow-sm: 0 1px 3px rgba(0,0,0,0.04);
       --shadow-md: 0 4px 20px rgba(0,0,0,0.06);
       --shadow-lg: 0 12px 48px rgba(0,0,0,0.08);
@@ -64,6 +64,9 @@
       justify-content: space-between;
     }
     .logo {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
       font-family: 'Playfair Display', serif;
       font-size: 1.4rem;
       font-weight: 700;
@@ -71,6 +74,7 @@
       text-decoration: none;
       letter-spacing: -0.02em;
     }
+    .logo img { height: 38px; width: 38px; border-radius: 50%; object-fit: cover; }
     .logo span { color: var(--teal); }
     .nav-links {
       display: flex;
@@ -97,7 +101,7 @@
       font-weight: 600;
       font-size: 0.85rem;
       transition: all 0.2s;
-      box-shadow: 0 2px 12px rgba(13, 148, 136, 0.2);
+      box-shadow: 0 2px 12px rgba(37, 99, 235, 0.2);
     }
     .nav-cta:hover { background: var(--teal-dark); transform: translateY(-1px); }
     .lang-switcher {
@@ -170,12 +174,12 @@
       font-weight: 700;
       font-size: 1rem;
       transition: all 0.25s;
-      box-shadow: 0 4px 24px rgba(13, 148, 136, 0.25);
+      box-shadow: 0 4px 24px rgba(37, 99, 235, 0.25);
     }
     .hero-cta:hover {
       background: var(--teal-dark);
       transform: translateY(-2px);
-      box-shadow: 0 6px 32px rgba(13, 148, 136, 0.3);
+      box-shadow: 0 6px 32px rgba(37, 99, 235, 0.3);
     }
     .hero-sub {
       margin-top: 14px;
@@ -447,7 +451,7 @@
       align-items: center;
       justify-content: center;
       flex-shrink: 0;
-      background-image: url("data:image/svg+xml,%3Csvg width='10' height='8' viewBox='0 0 10 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 4L3.5 6.5L9 1' stroke='%230d9488' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+      background-image: url("data:image/svg+xml,%3Csvg width='10' height='8' viewBox='0 0 10 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 4L3.5 6.5L9 1' stroke='%232563eb' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
       background-repeat: no-repeat;
       background-position: center;
     }
@@ -600,7 +604,7 @@
 <!-- NAV -->
 <nav>
   <div class="container">
-    <a href="#" class="logo">Trip<span>Sensei</span></a>
+    <a href="#" class="logo"><img src="TripSensei Logo.png" alt="TripSensei">Trip<span>Sensei</span></a>
     <div class="nav-links">
       <a href="#como-funciona">Como funciona</a>
       <a href="#funciones">Funciones</a>
@@ -901,7 +905,7 @@
 <footer>
   <div class="container">
     <div class="footer-left">
-      <a href="#" class="logo">Trip<span>Sensei</span></a>
+      <a href="#" class="logo"><img src="TripSensei Logo.png" alt="TripSensei">Trip<span>Sensei</span></a>
       <span class="footer-copy">&copy; 2026 TripSensei. Hecho con IA en Mexico.</span>
     </div>
     <div class="footer-links">
