@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Account Removal — TripSensei</title>
+  <meta name="description" content="Request removal of your TripSensei account and associated data.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #ffffff;
+      --bg-warm: #f4f8fc;
+      --text: #1a1a2e;
+      --text-secondary: #64607a;
+      --text-muted: #9994a8;
+      --teal: #0284c7;
+      --teal-dark: #0369a1;
+      --teal-light: #e0f2fe;
+      --border: rgba(26, 26, 46, 0.08);
+      --radius: 12px;
+      --orange: #e05b2a;
+    }
+
+    body {
+      font-family: 'DM Sans', -apple-system, sans-serif;
+      color: var(--text-secondary);
+      background: var(--bg);
+      line-height: 1.75;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(250, 249, 247, 0.92);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 24px;
+    }
+    .nav-inner {
+      max-width: 720px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+    }
+    .logo { display: inline-flex; align-items: center; gap: 8px; }
+    .logo img { height: 34px; width: 34px; border-radius: 50%; object-fit: cover; }
+      font-family: 'Playfair Display', serif;
+      font-weight: 700;
+      font-size: 1.3rem;
+      color: var(--text);
+      text-decoration: none;
+    }
+    .logo span { color: var(--teal); }
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .lang-link {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      text-decoration: none;
+      font-weight: 500;
+      border: 1px solid var(--border);
+      padding: 3px 10px;
+      border-radius: 50px;
+    }
+    .lang-link:hover { color: var(--teal); border-color: var(--teal); }
+    .back-link {
+      font-size: 0.85rem;
+      color: var(--teal);
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .back-link:hover { text-decoration: underline; }
+
+    .container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 48px 24px 80px;
+    }
+
+    .page-header {
+      margin-bottom: 36px;
+      padding-bottom: 28px;
+      border-bottom: 1px solid var(--border);
+    }
+    .badge {
+      display: inline-block;
+      background: var(--teal-light);
+      color: var(--teal-dark);
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 4px 12px;
+      border-radius: 50px;
+      margin-bottom: 14px;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+    h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.6rem, 4vw, 2.1rem);
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.2;
+      margin-bottom: 10px;
+    }
+    .update-date { font-size: 0.82rem; color: var(--text-muted); }
+
+    section { margin-bottom: 36px; }
+    h2 {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 10px;
+    }
+    p { font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 10px; }
+    ul { padding-left: 20px; margin-bottom: 10px; }
+    li { font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 5px; }
+    strong { color: var(--text); }
+    a { color: var(--teal); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .highlight-box {
+      background: var(--teal-light);
+      border: 1px solid rgba(2, 132, 199, 0.2);
+      border-radius: var(--radius);
+      padding: 18px 22px;
+      margin: 20px 0;
+    }
+    .highlight-box p { margin: 0; font-size: 0.85rem; }
+    .highlight-box strong { color: var(--teal-dark); }
+
+    .warning-box {
+      background: #fef3e6;
+      border: 1px solid rgba(224, 91, 42, 0.2);
+      border-radius: var(--radius);
+      padding: 18px 22px;
+      margin: 20px 0;
+    }
+    .warning-box p { margin: 0; font-size: 0.85rem; }
+    .warning-box strong { color: var(--orange); }
+
+    .steps {
+      counter-reset: step;
+      list-style: none;
+      padding-left: 0;
+    }
+    .steps li {
+      counter-increment: step;
+      padding-left: 36px;
+      position: relative;
+      margin-bottom: 14px;
+    }
+    .steps li::before {
+      content: counter(step);
+      position: absolute;
+      left: 0;
+      top: 2px;
+      width: 24px;
+      height: 24px;
+      background: var(--teal-light);
+      color: var(--teal-dark);
+      border-radius: 50%;
+      font-size: 0.75rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .contact-box {
+      background: var(--bg-warm);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px;
+      margin-top: 36px;
+    }
+    .contact-box h2 { margin-bottom: 6px; }
+    .contact-box p { margin: 0; font-size: 0.85rem; }
+
+    footer {
+      text-align: center;
+      padding: 28px 24px;
+      border-top: 1px solid var(--border);
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+    footer a { color: var(--text-muted); }
+    footer a:hover { color: var(--teal); }
+  </style>
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <a href="en.html" class="logo"><img src="TripSensei Logo.png" alt="TripSensei">Trip<span>Sensei</span></a>
+    <div class="nav-right">
+      <a href="eliminar-cuenta.html" class="lang-link">Espanol</a>
+      <a href="en.html" class="back-link">&larr; Home</a>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+
+  <div class="page-header">
+    <div class="badge">Account</div>
+    <h1>Account Removal</h1>
+    <p class="update-date">Last updated: April 5, 2026</p>
+  </div>
+
+  <div class="highlight-box">
+    <p><strong>Summary:</strong> You can request complete removal of your TripSensei account and all associated data at any time. Requests are processed within 48 hours.</p>
+  </div>
+
+  <section>
+    <h2>How to request account removal</h2>
+    <p>You can request removal of your account using any of these methods:</p>
+    <ul class="steps">
+      <li><strong>Via WhatsApp:</strong> Send the message <strong>DELETE MY DATA</strong> to our WhatsApp agent at <a href="https://wa.me/14154230178">+1 (415) 423-0178</a>.</li>
+      <li><strong>Via email:</strong> Send an email to <a href="mailto:hola@tripsensei.com">hola@tripsensei.com</a> with the subject line <strong>"Account Removal Request"</strong>. Include the phone number associated with your account.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>What data is deleted</h2>
+    <p>When your account is removed, we permanently delete:</p>
+    <ul>
+      <li><strong>Your WhatsApp phone number</strong> and profile association.</li>
+      <li><strong>Trip information</strong> — destinations, dates, and preferences.</li>
+      <li><strong>Conversation history</strong> — all messages exchanged with the agent.</li>
+      <li><strong>Tip ratings</strong> and feedback you provided.</li>
+      <li><strong>Subscription status</strong> and plan information.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>What is NOT deleted</h2>
+    <p>The following may be retained for legal or operational reasons:</p>
+    <ul>
+      <li><strong>Payment transaction records</strong> — retained by our payment processor (Stripe) as required by financial regulations. TripSensei does not store your card details.</li>
+      <li><strong>Aggregated, anonymized analytics</strong> — statistical data that cannot be linked back to you.</li>
+    </ul>
+  </section>
+
+  <div class="warning-box">
+    <p><strong>Please note:</strong> Account removal is permanent and cannot be undone. After deletion, you will no longer receive travel tips or alerts. You can always start a new conversation with TripSensei at any time.</p>
+  </div>
+
+  <section>
+    <h2>Processing time</h2>
+    <p>Account removal requests are processed within <strong>48 hours</strong>. You will receive a confirmation message on WhatsApp (or email) once your data has been deleted.</p>
+  </section>
+
+  <section>
+    <h2>Questions?</h2>
+    <p>If you have questions about your data or this process, review our <a href="privacy.html">Privacy Policy</a> or contact us:</p>
+  </section>
+
+  <div class="contact-box">
+    <h2>Contact us</h2>
+    <p>Email <a href="mailto:hola@tripsensei.com">hola@tripsensei.com</a> or message us on <a href="https://wa.me/14154230178">WhatsApp</a>. We respond within 24 hours.</p>
+  </div>
+
+</div>
+
+<footer>
+  &copy; 2026 TripSensei &middot; <a href="en.html">Home</a> &middot; <a href="privacy.html">Privacy</a> &middot; <a href="terms.html">Terms</a> &middot; <a href="eliminar-cuenta.html">Eliminar cuenta (ES)</a>
+</footer>
+
+</body>
+</html>
