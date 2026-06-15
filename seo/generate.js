@@ -262,6 +262,6 @@ for(const s of slugs){
 }
 sm+=`</urlset>\n`;
 fs.writeFileSync(path.join(OUT,'sitemap-destinos.xml'), sm);
-fs.writeFileSync(path.join(OUT,'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${DOMAIN}/sitemap-destinos.xml\n`);
+fs.writeFileSync(path.join(OUT,'robots.txt'), `User-agent: *\nAllow: /\n\nSitemap: ${DOMAIN}/sitemap-destinos.xml\nSitemap: ${DOMAIN}/sitemap-itinerarios.xml\n`);
 
 console.log('Generated', dests.length, 'destinations ->', dests.length*2, 'pages + 2 hubs + sitemap + robots into', OUT);

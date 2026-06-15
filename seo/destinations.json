@@ -178,5 +178,155 @@
     ],
     "tip_es":"Los hoteles cobran una 'resort fee' aparte de la tarifa: súmala al comparar precios. Tomar agua constante con ese calor seco es clave.",
     "tip_en":"Hotels charge a 'resort fee' on top of the room rate: factor it in when comparing prices. Keep drinking water in that dry heat."
+  },
+  {
+    "slug":"playa-del-carmen","name":"Playa del Carmen","en_name":"Playa del Carmen","country_es":"México","country_en":"Mexico","flag":"🇲🇽","cluster":"mexico","days":"3–5",
+    "best_es":"Noviembre a abril: clima seco, mar tranquilo y poco sargazo. Evita septiembre por riesgo de huracanes.",
+    "best_en":"November to April: dry weather, calm sea and little sargassum. Avoid September for hurricane risk.",
+    "intro_es":"Playa del Carmen es el punto medio perfecto entre Cancún y Tulum: playas accesibles caminando, la Quinta Avenida llena de restaurantes y un ferry de 30 min a Cozumel para bucear con tortugas.",
+    "intro_en":"Playa del Carmen is the sweet spot between Cancún and Tulum: walkable beaches, Quinta Avenida lined with restaurants and a 30-min ferry to Cozumel to dive with turtles.",
+    "things":[
+      {"t_es":"La Quinta Avenida","t_en":"Quinta Avenida","d_es":"Peatonal de 4 km con tiendas, bares y restaurantes; el corazón social de la ciudad.","d_en":"A 4-km pedestrian street of shops, bars and restaurants; the social heart of the city."},
+      {"t_es":"Cozumel en ferry","t_en":"Cozumel by ferry","d_es":"30 min en ferry; snorkel o buceo en el segundo arrecife más grande del mundo.","d_en":"30-min ferry; snorkel or dive the world's second-largest reef."},
+      {"t_es":"Cenotes cercanos","t_en":"Nearby cenotes","d_es":"Cristalino, Azul y Jardín del Edén a 20 min en coche; menos turísticos que los de Tulum.","d_en":"Cristalino, Azul and Jardín del Edén 20 min by car; less touristy than the Tulum ones."},
+      {"t_es":"Xcaret o Xplor","t_en":"Xcaret or Xplor","d_es":"Parques eco-arqueológicos a 15 min; día completo con shows nocturnos.","d_en":"Eco-archaeological parks 15 min away; full day with evening shows."}
+    ],
+    "tip_es":"Hospédate al norte de la Quinta (de Calle 34 hacia arriba): mismas playas, menos ruido y precios 30% más bajos que en el centro.",
+    "tip_en":"Stay north of Quinta (Calle 34 and up): same beaches, less noise and 30% lower prices than the center."
+  },
+  {
+    "slug":"san-miguel-de-allende","name":"San Miguel de Allende","en_name":"San Miguel de Allende","country_es":"México","country_en":"Mexico","flag":"🇲🇽","cluster":"mexico","days":"3–4",
+    "best_es":"Octubre a abril es la mejor temporada: clima templado seco. Diciembre y Día de Muertos son mágicos pero llenos; reserva con meses.",
+    "best_en":"October to April is the best window: mild, dry weather. December and Day of the Dead are magical but packed; book months ahead.",
+    "intro_es":"San Miguel de Allende es la joya colonial del Bajío y la ciudad favorita de muchos expats estadounidenses: calles empedradas, una escena de arte y gastronomía nivel CDMX y rooftops con vista a La Parroquia.",
+    "intro_en":"San Miguel de Allende is the colonial jewel of the Bajío and a favorite among American expats: cobblestone streets, an art and food scene rivaling Mexico City and rooftops overlooking La Parroquia.",
+    "things":[
+      {"t_es":"Parroquia de San Miguel Arcángel","t_en":"Parroquia de San Miguel Arcángel","d_es":"La iglesia neo-gótica rosada es el ícono; el Jardín Principal al lado es donde pasa todo.","d_en":"The pink neo-Gothic church is the icon; the Jardín Principal next door is where everything happens."},
+      {"t_es":"Fábrica La Aurora","t_en":"Fábrica La Aurora","d_es":"Antigua fábrica textil reconvertida en galerías, café y tiendas de diseño.","d_en":"A former textile factory turned into galleries, cafés and design shops."},
+      {"t_es":"Santuario de Atotonilco","t_en":"Atotonilco Sanctuary","d_es":"UNESCO a 15 min, llamado 'la Capilla Sixtina mexicana' por los frescos del interior.","d_en":"UNESCO site 15 min away, called the 'Mexican Sistine Chapel' for its frescoes."},
+      {"t_es":"Atardecer en rooftop","t_en":"Rooftop sunset","d_es":"La Azotea o Quince Rooftop frente a La Parroquia con luz dorada; reserva con tiempo.","d_en":"La Azotea or Quince Rooftop facing La Parroquia at golden hour; book ahead."}
+    ],
+    "tip_es":"Compra plata en el Mercado de Artesanías y compárala con las tiendas de la Calle Zacateros: misma calidad, precios 40-60% más bajos.",
+    "tip_en":"Buy silver at the Mercado de Artesanías and compare it to Calle Zacateros shops: same quality, 40-60% cheaper."
+  },
+  {
+    "slug":"merida","name":"Mérida","en_name":"Mérida","country_es":"México","country_en":"Mexico","flag":"🇲🇽","cluster":"mexico","days":"3–5",
+    "best_es":"Noviembre a marzo: clima cálido pero soportable. De abril a junio el calor es extremo (38°C+). Septiembre tiene lluvias intensas.",
+    "best_en":"November to March: warm but bearable. April to June gets brutally hot (100°F+). September brings heavy rains.",
+    "intro_es":"Mérida es la capital cultural de Yucatán: arquitectura colonial, una de las ciudades más seguras de México y la base perfecta para Chichén Itzá, Uxmal y los cenotes de Cuzamá.",
+    "intro_en":"Mérida is the cultural capital of Yucatán: colonial architecture, one of Mexico's safest cities and the perfect base for Chichén Itzá, Uxmal and the Cuzamá cenotes.",
+    "things":[
+      {"t_es":"Centro histórico y Paseo de Montejo","t_en":"Historic center & Paseo de Montejo","d_es":"Catedral del siglo XVI y mansiones afrancesadas en la avenida principal.","d_en":"16th-century cathedral and French-style mansions along the main avenue."},
+      {"t_es":"Chichén Itzá","t_en":"Chichén Itzá","d_es":"Pirámide maya UNESCO a 1.5 h; ve a la apertura para evitar tours desde Cancún.","d_en":"UNESCO Maya pyramid 1.5h away; arrive at opening to beat the Cancún tours."},
+      {"t_es":"Cenotes de Cuzamá","t_en":"Cuzamá cenotes","d_es":"Tres cenotes en circuito tirado por caballo a través de la jungla; experiencia auténtica.","d_en":"Three cenotes on a horse-drawn rail circuit through the jungle; authentic experience."},
+      {"t_es":"Comida yucateca","t_en":"Yucatecan food","d_es":"Cochinita pibil, sopa de lima y papadzules; prueba La Chaya Maya o Manjar Blanco.","d_en":"Cochinita pibil, sopa de lima and papadzules; try La Chaya Maya or Manjar Blanco."}
+    ],
+    "tip_es":"Los domingos el centro se cierra al tráfico ('Mérida en Domingo'): mercado, bicis y música en vivo en la plaza. Llega antes de las 10 am.",
+    "tip_en":"Sundays the downtown closes to cars ('Mérida en Domingo'): market, bikes and live music in the plaza. Arrive before 10 am."
+  },
+  {
+    "slug":"puerto-vallarta","name":"Puerto Vallarta","en_name":"Puerto Vallarta","country_es":"México","country_en":"Mexico","flag":"🇲🇽","cluster":"mexico","days":"3–5",
+    "best_es":"Noviembre a abril es la temporada seca y la ideal. De junio a octubre llueve por la tarde pero todo está más verde y más barato.",
+    "best_en":"November to April is the dry, ideal season. June to October brings afternoon rains, but everything is greener and cheaper.",
+    "intro_es":"Puerto Vallarta combina playa, bahía y sierra: el Malecón con sus esculturas, la Zona Romántica para foodies LGBTQ-friendly y excursiones en lancha a Yelapa y las Islas Marietas.",
+    "intro_en":"Puerto Vallarta blends beach, bay and mountain: the Malecón with its sculptures, the LGBTQ-friendly Zona Romántica for foodies and boat trips to Yelapa and the Marietas Islands.",
+    "things":[
+      {"t_es":"Malecón al atardecer","t_en":"Malecón at sunset","d_es":"Paseo de 1 km con esculturas de bronce, artistas callejeros y el mejor atardecer del Pacífico.","d_en":"A 1-km boardwalk with bronze sculptures, street performers and the best Pacific sunset."},
+      {"t_es":"Islas Marietas","t_en":"Marietas Islands","d_es":"Lancha de 1 h a Playa Escondida (Hidden Beach); reserva con anticipación, cupos limitados.","d_en":"1-h boat to Hidden Beach (Playa del Amor); book ahead, daily caps apply."},
+      {"t_es":"Yelapa","t_en":"Yelapa","d_es":"Pueblo de pescadores accesible solo por mar; comer pescado fresco en la playa y nadar en la cascada.","d_en":"Fishing village reachable only by sea; fresh fish on the beach and a swim under the waterfall."},
+      {"t_es":"Zona Romántica","t_en":"Zona Romántica","d_es":"El barrio con los mejores cafés, bares LGBTQ-friendly y restaurantes de autor.","d_en":"The neighborhood with the best cafés, LGBTQ-friendly bars and chef-driven restaurants."}
+    ],
+    "tip_es":"Para Playa Escondida en las Marietas, reserva con 1-2 semanas de anticipación: SEMARNAT limita el número diario de visitantes y se llena rápido.",
+    "tip_en":"For Hidden Beach in the Marietas, book 1-2 weeks ahead: SEMARNAT caps daily visitors and it fills up fast."
+  },
+  {
+    "slug":"medellin","name":"Medellín","en_name":"Medellín","country_es":"Colombia","country_en":"Colombia","flag":"🇨🇴","cluster":"sudamerica","days":"3–5",
+    "best_es":"Diciembre a marzo y julio-agosto son los mejores meses: menos lluvia. La temperatura es 'eterna primavera' todo el año (18–25°C).",
+    "best_en":"December to March and July-August are best: less rain. Temperatures stay 'eternal spring' year-round (65–77°F).",
+    "intro_es":"Medellín es la ciudad colombiana de la transformación: tecnología, arte callejero en Comuna 13, el clima más cómodo de Latinoamérica y una escena gastronómica en auge en El Poblado.",
+    "intro_en":"Medellín is Colombia's city of transformation: tech, street art in Comuna 13, Latin America's most comfortable climate and a booming food scene in El Poblado.",
+    "things":[
+      {"t_es":"Comuna 13","t_en":"Comuna 13","d_es":"Grafitis, escaleras eléctricas y la historia más fuerte de la ciudad; tour con guía local.","d_en":"Street art, outdoor escalators and the city's most powerful story; tour with a local guide."},
+      {"t_es":"El Poblado y Provenza","t_en":"El Poblado & Provenza","d_es":"El barrio con cafés de especialidad, restaurantes y vida nocturna.","d_en":"The neighborhood with specialty coffee, restaurants and nightlife."},
+      {"t_es":"Guatapé y la Piedra del Peñol","t_en":"Guatapé & El Peñol rock","d_es":"A 2 h: sube los 740 escalones para una vista postal de los embalses.","d_en":"2h away: climb 740 steps for a postcard view of the reservoirs."},
+      {"t_es":"Metrocable a Arví","t_en":"Metrocable to Arví","d_es":"Teleférico urbano + parque ecológico; usa la tarjeta Cívica para pagar.","d_en":"Urban cable car + ecological park; use the Cívica card to pay."}
+    ],
+    "tip_es":"Toma el tour a Comuna 13 con guía local (no por tu cuenta): la historia detrás de los murales es lo que realmente vale, y los locales se llevan el dinero del tour.",
+    "tip_en":"Take the Comuna 13 tour with a local guide (not on your own): the stories behind the murals are what's actually worth it, and locals keep the tour money."
+  },
+  {
+    "slug":"antigua-guatemala","name":"Antigua Guatemala","en_name":"Antigua Guatemala","country_es":"Guatemala","country_en":"Guatemala","flag":"🇬🇹","cluster":"sudamerica","days":"2–3",
+    "best_es":"Noviembre a abril es seco e ideal. Semana Santa (marzo-abril) es espectacular pero reserva con meses; junio-octubre llueve por la tarde.",
+    "best_en":"November to April is dry and ideal. Easter Week (March-April) is spectacular but books months ahead; June-October has afternoon rains.",
+    "intro_es":"Antigua es ciudad colonial UNESCO entre tres volcanes: ruinas barrocas, café de altura y la base perfecta para subir al Acatenango y ver al volcán Fuego erupcionar de noche.",
+    "intro_en":"Antigua is a UNESCO colonial city ringed by three volcanoes: baroque ruins, high-altitude coffee and the launchpad to hike Acatenango and watch Fuego erupt at night.",
+    "things":[
+      {"t_es":"Arco de Santa Catalina","t_en":"Santa Catalina Arch","d_es":"El ícono de Antigua con el Volcán Agua atrás; la mejor foto al amanecer.","d_en":"Antigua's icon with Volcán Agua behind it; best photo at sunrise."},
+      {"t_es":"Volcán Acatenango","t_en":"Acatenango volcano","d_es":"Caminata de 2 días con campamento a 3,700 m para ver al Fuego erupcionar de noche.","d_en":"2-day hike with camp at 12,000ft to watch Fuego erupt at night."},
+      {"t_es":"Chichicastenango","t_en":"Chichicastenango","d_es":"Mercado indígena más grande de Centroamérica; jueves y domingo, a 2.5 h.","d_en":"Central America's largest indigenous market; Thursdays and Sundays, 2.5h away."},
+      {"t_es":"Cata de café","t_en":"Coffee tasting","d_es":"Fincas a 30 min: Filadelfia o De La Gente, finca-a-taza con productores.","d_en":"Farms 30 min away: Filadelfia or De La Gente, farm-to-cup with growers."}
+    ],
+    "tip_es":"Si subes al Acatenango, contrata tour con porteador y equipo (Wicho & Charlies, Old Town Outfitters): a 3,700 m hace frío real y cada gramo en la mochila cuenta.",
+    "tip_en":"If you hike Acatenango, book a tour with porters and gear (Wicho & Charlies, Old Town Outfitters): at 12,000ft it gets seriously cold and every gram in your pack counts."
+  },
+  {
+    "slug":"bogota","name":"Bogotá","en_name":"Bogotá","country_es":"Colombia","country_en":"Colombia","flag":"🇨🇴","cluster":"sudamerica","days":"3–4",
+    "best_es":"Diciembre a marzo y julio-agosto son los meses más secos. Está a 2,640 m: día templado, noche fresca todo el año.",
+    "best_en":"December to March and July-August are the driest months. At 8,660ft: mild days, cool nights year-round.",
+    "intro_es":"Bogotá es la capital andina de Colombia: el centro histórico de La Candelaria, el Museo del Oro, la subida a Monserrate y una escena foodie y de café que rivaliza con Medellín.",
+    "intro_en":"Bogotá is Colombia's Andean capital: the historic La Candelaria, the Gold Museum, the climb to Monserrate and a food and coffee scene rivaling Medellín.",
+    "things":[
+      {"t_es":"La Candelaria","t_en":"La Candelaria","d_es":"Centro colonial con casas de colores, grafiti tour y el Museo Botero.","d_en":"Colonial center with colorful houses, a graffiti tour and the Botero Museum."},
+      {"t_es":"Museo del Oro","t_en":"Gold Museum","d_es":"La mayor colección prehispánica de oro del mundo; entra los domingos gratis.","d_en":"The world's largest pre-Hispanic gold collection; free entry on Sundays."},
+      {"t_es":"Monserrate","t_en":"Monserrate","d_es":"Teleférico o funicular a 3,150 m; vista panorámica al atardecer.","d_en":"Cable car or funicular to 10,340ft; panoramic view at sunset."},
+      {"t_es":"Zona G y Usaquén","t_en":"Zona G & Usaquén","d_es":"Restaurantes de autor y el mercado de pulgas dominical de Usaquén.","d_en":"Chef-driven restaurants and the Sunday flea market in Usaquén."}
+    ],
+    "tip_es":"Aclimátate el primer día (estás a 2,640 m): camina lento, toma agua y deja Monserrate para el día 2 o 3 para evitar mareo de altura.",
+    "tip_en":"Acclimatize on day one (you're at 8,660ft): walk slow, drink water and save Monserrate for day 2 or 3 to avoid altitude sickness."
+  },
+  {
+    "slug":"santiago","name":"Santiago","en_name":"Santiago","country_es":"Chile","country_en":"Chile","flag":"🇨🇱","cluster":"sudamerica","days":"3–4",
+    "best_es":"Septiembre a noviembre (primavera) y marzo-mayo (otoño) tienen el mejor clima. En invierno (jun-ago) puedes esquiar a 1 h del centro.",
+    "best_en":"September to November (spring) and March-May (fall) have the best weather. In winter (Jun-Aug) you can ski 1h from the city.",
+    "intro_es":"Santiago es la capital chilena rodeada por los Andes: barrios como Lastarria y Bellavista para vida nocturna, el Cerro San Cristóbal con vista a la cordillera y el Valle de Maipo a 1.5 h para cata de vinos.",
+    "intro_en":"Santiago is Chile's capital ringed by the Andes: neighborhoods like Lastarria and Bellavista for nightlife, Cerro San Cristóbal with cordillera views and the Maipo Valley wine country 1.5h away.",
+    "things":[
+      {"t_es":"Cerro San Cristóbal","t_en":"Cerro San Cristóbal","d_es":"Funicular o caminata a la cima; vista 360 de la ciudad y los Andes.","d_en":"Funicular or hike to the summit; 360 views of the city and Andes."},
+      {"t_es":"Barrio Lastarria y Bellavista","t_en":"Lastarria & Bellavista","d_es":"Bohemia con galerías, bares y la casa-museo de Pablo Neruda.","d_en":"Bohemian district with galleries, bars and Pablo Neruda's house-museum."},
+      {"t_es":"Mercado Central","t_en":"Mercado Central","d_es":"Pescados frescos del Pacífico; prueba el congrio frito o un caldillo.","d_en":"Fresh Pacific seafood; try fried conger eel or a caldillo stew."},
+      {"t_es":"Valle de Maipo","t_en":"Maipo Valley","d_es":"Viñas como Concha y Toro y Undurraga; medio día de cata de vinos.","d_en":"Wineries like Concha y Toro and Undurraga; a half-day of tastings."}
+    ],
+    "tip_es":"Si vas en invierno (julio-agosto), suma un día a Valle Nevado o Farellones: esquí a 1 h del centro y mucho más barato que Aspen o Whistler.",
+    "tip_en":"If you visit in winter (July-August), add a day at Valle Nevado or Farellones: skiing 1h from the city and far cheaper than Aspen or Whistler."
+  },
+  {
+    "slug":"orlando","name":"Orlando","en_name":"Orlando","country_es":"Estados Unidos","country_en":"United States","flag":"🇺🇸","cluster":"usa","days":"4–7",
+    "best_es":"Marzo a mayo y octubre-noviembre tienen mejor clima y menos lluvia. Junio-agosto es caluroso, húmedo y con tormentas por la tarde — pero las multitudes son las mismas.",
+    "best_en":"March to May and October-November have nicer weather and less rain. June-August is hot, humid and stormy — but the crowds are the same.",
+    "intro_es":"Orlando es la capital mundial de los parques temáticos: Walt Disney World, Universal Orlando (con el nuevo Epic Universe) y SeaWorld, más outlets enormes para shopping. La excusa perfecta para un viaje familiar a Estados Unidos.",
+    "intro_en":"Orlando is the world's theme-park capital: Walt Disney World, Universal Orlando (with the new Epic Universe) and SeaWorld, plus massive outlet shopping. The classic American family-trip excuse.",
+    "things":[
+      {"t_es":"Walt Disney World","t_en":"Walt Disney World","d_es":"4 parques (Magic Kingdom, EPCOT, Hollywood Studios, Animal Kingdom); 2-3 días mínimo.","d_en":"4 parks (Magic Kingdom, EPCOT, Hollywood Studios, Animal Kingdom); 2-3 days minimum."},
+      {"t_es":"Universal Orlando + Epic Universe","t_en":"Universal Orlando + Epic Universe","d_es":"Harry Potter, Marvel y el nuevo Epic Universe (abrió en 2025); compra Express Pass.","d_en":"Harry Potter, Marvel and the new Epic Universe (opened 2025); buy Express Pass."},
+      {"t_es":"Kennedy Space Center","t_en":"Kennedy Space Center","d_es":"A 1 h, en Cabo Cañaveral; lanzamientos de SpaceX en vivo si coincide con tu visita.","d_en":"1h away on Cape Canaveral; live SpaceX launches if timing aligns."},
+      {"t_es":"Outlets y ICON Park","t_en":"Outlets & ICON Park","d_es":"Premium Outlets para compras, ICON Park para la rueda de la fortuna en International Drive.","d_en":"Premium Outlets for shopping, ICON Park for the giant wheel on International Drive."}
+    ],
+    "tip_es":"Compra Genie+ (Disney) o Express Pass (Universal): te ahorras 2-3 horas de fila por día. En temporada alta es la diferencia entre subir a 5 o a 12 atracciones.",
+    "tip_en":"Buy Genie+ (Disney) or Express Pass (Universal): saves you 2-3 hours of lines per day. In peak season, that's the difference between 5 and 12 rides."
+  },
+  {
+    "slug":"seattle","name":"Seattle","en_name":"Seattle","country_es":"Estados Unidos","country_en":"United States","flag":"🇺🇸","cluster":"usa","days":"3–4",
+    "best_es":"Julio a septiembre tienen el mejor clima: sol, días largos y menos lluvia. El resto del año la fama de gris es real.",
+    "best_en":"July to September brings the best weather: sun, long days and less rain. The rest of the year, the gray reputation is real.",
+    "intro_es":"Seattle es la ciudad del Pacífico Noroeste: Space Needle, Pike Place Market, Boeing, Microsoft y vistas al Monte Rainier. Café, mariscos y montañas a una hora.",
+    "intro_en":"Seattle is the Pacific Northwest city: Space Needle, Pike Place Market, Boeing, Microsoft and Mount Rainier views. Coffee, seafood and mountains an hour away.",
+    "things":[
+      {"t_es":"Space Needle + Chihuly Garden","t_en":"Space Needle + Chihuly Garden","d_es":"Combo ticket con vista 360 y el jardín de cristal de Dale Chihuly.","d_en":"Combo ticket with 360 views and Dale Chihuly's glass garden."},
+      {"t_es":"Pike Place Market","t_en":"Pike Place Market","d_es":"Pescaderos lanzando salmón, el Starbucks original y el muro de chicles.","d_en":"Fishmongers throwing salmon, the original Starbucks and the gum wall."},
+      {"t_es":"Ferry a Bainbridge Island","t_en":"Ferry to Bainbridge Island","d_es":"35 min con la mejor vista del skyline; gratis si vas como pasajero.","d_en":"35 min with the best skyline view; free as a walk-on passenger."},
+      {"t_es":"Monte Rainier","t_en":"Mount Rainier","d_es":"Parque nacional a 2 h; ideal en julio-septiembre cuando los senderos están abiertos.","d_en":"National park 2h away; ideal July-September when trails are open."}
+    ],
+    "tip_es":"Compra el CityPASS si vas a ver Space Needle + Acuario + Museum of Pop Culture + un crucero: ahorras 45% vs entradas sueltas.",
+    "tip_en":"Get the CityPASS if you're hitting Space Needle + Aquarium + Museum of Pop Culture + a harbor cruise: saves 45% vs individual tickets."
   }
 ]
