@@ -132,7 +132,7 @@ Para escalar sin escribir a mano: pásale a Claude API el destino + el slot
 ## Antes de hacer deploy
 1. Confirma que `DOMAIN` y `WA` coinciden con los del generador de destinos.
 2. Corre `node seo/generate-itineraries.js .`
-3. Agrega `Sitemap: https://tripsensei.com/sitemap-itinerarios.xml` a tu `robots.txt`
+3. Agrega `Sitemap: https://tripsensei.net/sitemap-itinerarios.xml` a tu `robots.txt`
    (no lo sobrescribimos para no chocar con el sitemap de destinos).
 4. Agrega un link en el nav/footer a `/itinerarios/` (ES) y `/en/itineraries/` (EN).
 5. Sube `sitemap-itinerarios.xml` en Google Search Console.

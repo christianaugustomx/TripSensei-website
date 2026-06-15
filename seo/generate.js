@@ -10,7 +10,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DOMAIN  = 'https://tripsensei.com';            // <-- set your production domain
+const DOMAIN  = 'https://tripsensei.net';            // <-- set your production domain
 const WA      = 'https://wa.me/14154230178';         // TripSensei WhatsApp
 const OUT     = process.argv[2] || './build';
 const dests   = JSON.parse(fs.readFileSync(path.join(__dirname,'destinations.json'),'utf8'));

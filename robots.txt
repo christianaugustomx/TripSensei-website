@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tripsensei.com/sitemap-destinos.xml
-Sitemap: https://tripsensei.com/sitemap-itinerarios.xml
+Sitemap: https://tripsensei.net/sitemap-destinos.xml
+Sitemap: https://tripsensei.net/sitemap-itinerarios.xml
