@@ -1,0 +1,730 @@
+{
+  "cancun": {
+    "3": {
+      "title_es": "Itinerario de 3 días en Cancún: lo esencial del Caribe mexicano",
+      "title_en": "3-day Cancún itinerary: the Mexican Caribbean essentials",
+      "intro_es": "Un plan corto y enfocado para conocer lo mejor de Cancún: playa, un cenote y un día en Isla Mujeres. Sin tiempo perdido en Chichén Itzá (queda a 3h) ni traslados largos.",
+      "intro_en": "A short, focused plan for the best of Cancún: beach, a cenote and a day in Isla Mujeres. No time wasted on Chichén Itzá (3h away) or long transfers.",
+      "days": [
+        {
+          "label_es": "Día 1 — Llegada y Zona Hotelera",
+          "label_en": "Day 1 — Arrival & Hotel Zone",
+          "morning_es": "Aterriza, traslado al hotel y come ligero; guacamole con tortillas de maíz para empezar.",
+          "morning_en": "Land, transfer to your hotel and eat light; guacamole with corn tortillas to kick things off.",
+          "afternoon_es": "Camina la Playa Delfines (la mejor playa pública) y nada en el Caribe turquesa.",
+          "afternoon_en": "Walk Playa Delfines (the best public beach) and swim in the turquoise Caribbean.",
+          "evening_es": "Cena en el Centro (Parque de las Palapas) — más barato y auténtico que la Zona Hotelera.",
+          "evening_en": "Dinner Downtown (Parque de las Palapas) — cheaper and more authentic than the Hotel Zone."
+        },
+        {
+          "label_es": "Día 2 — Tulum + cenote",
+          "label_en": "Day 2 — Tulum + cenote",
+          "morning_es": "Sal a las 7 am hacia Tulum; visita las ruinas mayas frente al mar antes de las 10.",
+          "morning_en": "Leave at 7 am for Tulum; visit the seaside Maya ruins before 10.",
+          "afternoon_es": "Camino de regreso, para en Gran Cenote o Dos Ojos para nadar y hacer snorkel.",
+          "afternoon_en": "On the way back, stop at Gran Cenote or Dos Ojos to swim and snorkel.",
+          "evening_es": "Vuelve a Cancún y relájate con una cena con vista al mar.",
+          "evening_en": "Back to Cancún and unwind with an oceanfront dinner."
+        },
+        {
+          "label_es": "Día 3 — Isla Mujeres",
+          "label_en": "Day 3 — Isla Mujeres",
+          "morning_es": "Ferry desde Puerto Juárez (20 min); renta un carrito de golf por el día.",
+          "morning_en": "Ferry from Puerto Juárez (20 min); rent a golf cart for the day.",
+          "afternoon_es": "Playa Norte (una de las mejores del Caribe), ceviche frente al mar y siesta en hamaca.",
+          "afternoon_en": "Playa Norte (one of the Caribbean's best), ceviche by the water and a hammock nap.",
+          "evening_es": "Regreso al continente, cena temprano y maleta lista.",
+          "evening_en": "Back to the mainland, early dinner and pack."
+        }
+      ],
+      "pro_tip_es": "Hospédate cerca de Puerto Juárez (no en la Zona Hotelera) si vas a Isla Mujeres: el ferry sale de ahí y ahorras 40 min de traslado.",
+      "pro_tip_en": "Stay near Puerto Juárez (not the Hotel Zone) if Isla Mujeres is on the plan: the ferry leaves from there and saves you 40 min in transfers."
+    },
+    "5": {
+      "title_es": "Itinerario de 5 días en Cancún: playa, ruinas y cenotes sin prisa",
+      "title_en": "5-day Cancún itinerary: beach, ruins and cenotes without rushing",
+      "intro_es": "Cinco días en Cancún mezclan Caribe puro con cultura maya y arrecife. Este plan suma Chichén Itzá y un día de snorkel además del esencial.",
+      "intro_en": "Five days in Cancún mix pure Caribbean with Maya culture and reef snorkeling. This plan adds Chichén Itzá and a snorkel day on top of the essentials.",
+      "days": [
+        {
+          "label_es": "Día 1 — Llegada y Centro",
+          "label_en": "Day 1 — Arrival & Downtown",
+          "morning_es": "Aterriza, conecta con el hotel y come tacos al pastor cerca del Mercado 28.",
+          "morning_en": "Land, transfer to your hotel and have tacos al pastor near Mercado 28.",
+          "afternoon_es": "Playa Delfines o Playa Marlin: las mejores playas públicas con menos gente.",
+          "afternoon_en": "Playa Delfines or Playa Marlin: the best public beaches with fewer crowds.",
+          "evening_es": "Cena en Parque de las Palapas y postre con marquesitas.",
+          "evening_en": "Dinner at Parque de las Palapas and marquesitas for dessert."
+        },
+        {
+          "label_es": "Día 2 — Tulum + Cenote Dos Ojos",
+          "label_en": "Day 2 — Tulum + Cenote Dos Ojos",
+          "morning_es": "Sal temprano a las ruinas de Tulum y entra a la apertura (8 am).",
+          "morning_en": "Leave early for the Tulum ruins and enter at opening (8 am).",
+          "afternoon_es": "Cenote Dos Ojos para snorkel en agua dulce cristalina.",
+          "afternoon_en": "Cenote Dos Ojos for snorkeling in crystal-clear freshwater.",
+          "evening_es": "Cena en Tulum pueblo y regreso a Cancún por la noche.",
+          "evening_en": "Dinner in Tulum town and back to Cancún at night."
+        },
+        {
+          "label_es": "Día 3 — Isla Mujeres",
+          "label_en": "Day 3 — Isla Mujeres",
+          "morning_es": "Ferry a Isla Mujeres y carrito de golf para recorrer la isla entera.",
+          "morning_en": "Ferry to Isla Mujeres and a golf cart to circle the whole island.",
+          "afternoon_es": "Playa Norte, ceviche y siesta en hamaca.",
+          "afternoon_en": "Playa Norte, ceviche and a hammock nap.",
+          "evening_es": "Regreso al continente al atardecer; cena de mariscos en el Centro.",
+          "evening_en": "Back to the mainland at sunset; seafood dinner downtown."
+        },
+        {
+          "label_es": "Día 4 — Chichén Itzá + Valladolid",
+          "label_en": "Day 4 — Chichén Itzá + Valladolid",
+          "morning_es": "Salida temprano (7 am) hacia Chichén Itzá para ver las pirámides sin multitudes.",
+          "morning_en": "Early start (7 am) for Chichén Itzá to see the pyramids before the crowds.",
+          "afternoon_es": "Comida y paseo por el centro colonial de Valladolid; refresca en Cenote Suytun o Zaci.",
+          "afternoon_en": "Lunch and a walk through colonial Valladolid; cool off at Cenote Suytun or Zaci.",
+          "evening_es": "Regreso a Cancún, descanso largo y cena ligera.",
+          "evening_en": "Back to Cancún, long rest and light dinner."
+        },
+        {
+          "label_es": "Día 5 — Snorkel en el arrecife + relax",
+          "label_en": "Day 5 — Reef snorkel + relax",
+          "morning_es": "Tour de snorkel al arrecife mesoamericano (sale de Puerto Morelos o Cancún).",
+          "morning_en": "Snorkel tour to the Mesoamerican reef (departs from Puerto Morelos or Cancún).",
+          "afternoon_es": "Tarde de playa lenta y masaje en el hotel.",
+          "afternoon_en": "Slow beach afternoon and a hotel massage.",
+          "evening_es": "Cena de despedida con vista al mar.",
+          "evening_en": "Farewell dinner overlooking the sea."
+        }
+      ],
+      "pro_tip_es": "Compra los boletos de Chichén Itzá en línea con anticipación: la fila para pagar puede ser de 30–45 min en temporada alta.",
+      "pro_tip_en": "Buy Chichén Itzá tickets online in advance: the pay-at-the-gate line can take 30–45 min in high season."
+    },
+    "7": {
+      "title_es": "Itinerario de 7 días en Cancún: ruinas, cenotes y la Riviera Maya",
+      "title_en": "7-day Cancún itinerary: ruins, cenotes and the Riviera Maya",
+      "intro_es": "Una semana te alcanza para combinar Cancún con noches en Tulum y un día en Bacalar. Te permites el ritmo lento del Caribe en lugar de correr entre traslados.",
+      "intro_en": "A week is enough to combine Cancún with nights in Tulum and a day in Bacalar. You can take the slow Caribbean pace instead of racing between transfers.",
+      "days": [
+        {
+          "label_es": "Día 1 — Llegada",
+          "label_en": "Day 1 — Arrival",
+          "morning_es": "Aterrizaje, traslado al hotel y check-in.",
+          "morning_en": "Land, transfer to the hotel and check in.",
+          "afternoon_es": "Playa Delfines y nado tranquilo.",
+          "afternoon_en": "Playa Delfines and a quiet swim.",
+          "evening_es": "Cena en el Centro y caminata por Parque de las Palapas.",
+          "evening_en": "Dinner downtown and a walk through Parque de las Palapas."
+        },
+        {
+          "label_es": "Día 2 — Isla Mujeres",
+          "label_en": "Day 2 — Isla Mujeres",
+          "morning_es": "Ferry a Isla Mujeres y carrito de golf por el día.",
+          "morning_en": "Ferry to Isla Mujeres and a golf cart for the day.",
+          "afternoon_es": "Playa Norte, ceviche y snorkel en Punta Sur.",
+          "afternoon_en": "Playa Norte, ceviche and snorkeling at Punta Sur.",
+          "evening_es": "Regreso al continente al atardecer.",
+          "evening_en": "Back to the mainland at sunset."
+        },
+        {
+          "label_es": "Día 3 — Chichén Itzá + Valladolid",
+          "label_en": "Day 3 — Chichén Itzá + Valladolid",
+          "morning_es": "Sal a las 7 am para llegar a Chichén Itzá antes de las multitudes.",
+          "morning_en": "Leave at 7 am to reach Chichén Itzá before the crowds.",
+          "afternoon_es": "Comida en Valladolid y nado en Cenote Suytun.",
+          "afternoon_en": "Lunch in Valladolid and a swim at Cenote Suytun.",
+          "evening_es": "Regreso a Cancún, descanso largo.",
+          "evening_en": "Back to Cancún, long rest."
+        },
+        {
+          "label_es": "Día 4 — Trasládate a Tulum",
+          "label_en": "Day 4 — Move to Tulum",
+          "morning_es": "Sal hacia Tulum (2h), check-in en la playa o el pueblo.",
+          "morning_en": "Drive to Tulum (2h), check in by the beach or in town.",
+          "afternoon_es": "Ruinas de Tulum al atardecer (menos calor, menos gente).",
+          "afternoon_en": "Tulum ruins at sunset (less heat, fewer people).",
+          "evening_es": "Cena boho en la zona de playa.",
+          "evening_en": "Boho dinner on the beach strip."
+        },
+        {
+          "label_es": "Día 5 — Cenotes y Cobá",
+          "label_en": "Day 5 — Cenotes & Cobá",
+          "morning_es": "Cenote Dos Ojos al amanecer, casi vacío.",
+          "morning_en": "Cenote Dos Ojos at sunrise, nearly empty.",
+          "afternoon_es": "Sube la pirámide de Cobá entre selva (mientras se permita).",
+          "afternoon_en": "Climb the Cobá pyramid through the jungle (while it's still allowed).",
+          "evening_es": "Cena en Tulum pueblo, tlayudas o cochinita.",
+          "evening_en": "Dinner in Tulum town, tlayudas or cochinita."
+        },
+        {
+          "label_es": "Día 6 — Bacalar (laguna de 7 colores)",
+          "label_en": "Day 6 — Bacalar (seven-color lagoon)",
+          "morning_es": "Sal temprano hacia Bacalar (3h); navega la laguna en velero.",
+          "morning_en": "Early drive to Bacalar (3h); sail the lagoon.",
+          "afternoon_es": "Para en Cenote Azul para nadar.",
+          "afternoon_en": "Stop at Cenote Azul to swim.",
+          "evening_es": "Regreso a Tulum (más cerca que Cancún) o pernocta en Bacalar.",
+          "evening_en": "Drive back to Tulum (closer than Cancún) or overnight in Bacalar."
+        },
+        {
+          "label_es": "Día 7 — Snorkel en el arrecife + regreso",
+          "label_en": "Day 7 — Reef snorkel + departure",
+          "morning_es": "Tour de snorkel al arrecife mesoamericano desde Puerto Morelos.",
+          "morning_en": "Mesoamerican reef snorkel tour from Puerto Morelos.",
+          "afternoon_es": "Empaca y come por última vez mariscos frescos.",
+          "afternoon_en": "Pack and have one last meal of fresh seafood.",
+          "evening_es": "Vuelo de regreso.",
+          "evening_en": "Flight home."
+        }
+      ],
+      "pro_tip_es": "Si manejas a Bacalar, sale antes de las 7 am y vuelve a Tulum en lugar de Cancún — ahorras 90 min de traslado total.",
+      "pro_tip_en": "If driving to Bacalar, leave before 7 am and return to Tulum instead of Cancún — that saves you 90 min of total drive time."
+    }
+  },
+  "tulum": {
+    "3": {
+      "title_es": "Itinerario de 3 días en Tulum: ruinas, cenotes y playa",
+      "title_en": "3-day Tulum itinerary: ruins, cenotes and beach",
+      "intro_es": "Tres días concentrados en lo mejor de Tulum: ruinas mayas frente al Caribe, una ruta de cenotes y un día de playa lenta. Sin extender hacia Cancún ni Bacalar.",
+      "intro_en": "Three concentrated days for Tulum's best: the seaside Maya ruins, a cenote route and a slow beach day. No detours to Cancún or Bacalar.",
+      "days": [
+        {
+          "label_es": "Día 1 — Llegada + zona de playa",
+          "label_en": "Day 1 — Arrival + beach strip",
+          "morning_es": "Llegada, check-in y café local en Tulum pueblo.",
+          "morning_en": "Arrive, check in and local coffee in Tulum town.",
+          "afternoon_es": "Bici por la zona de playa y snack en un beach club.",
+          "afternoon_en": "Bike the beach strip and a snack at a beach club.",
+          "evening_es": "Cena boho frente al mar (con reserva por la temporada).",
+          "evening_en": "Boho dinner facing the sea (book ahead in high season)."
+        },
+        {
+          "label_es": "Día 2 — Ruinas + Sian Ka'an",
+          "label_en": "Day 2 — Ruins + Sian Ka'an",
+          "morning_es": "Ruinas de Tulum a la apertura (8 am), antes del calor y los tours.",
+          "morning_en": "Tulum ruins at opening (8 am), before the heat and the tour buses.",
+          "afternoon_es": "Tour de medio día por la reserva de Sian Ka'an: manglares, lagunas y delfines.",
+          "afternoon_en": "Half-day tour of the Sian Ka'an reserve: mangroves, lagoons and dolphins.",
+          "evening_es": "Pizza al horno o tacos en el pueblo, mezcal en una cantina pequeña.",
+          "evening_en": "Wood-fired pizza or tacos in town, mezcal at a small cantina."
+        },
+        {
+          "label_es": "Día 3 — Ruta de cenotes",
+          "label_en": "Day 3 — Cenote route",
+          "morning_es": "Gran Cenote para nadar con tortugas en agua cristalina.",
+          "morning_en": "Gran Cenote to swim with turtles in crystal-clear water.",
+          "afternoon_es": "Cenote Calavera para saltos y Cenote Dos Ojos para snorkel.",
+          "afternoon_en": "Cenote Calavera for jumps and Cenote Dos Ojos for snorkeling.",
+          "evening_es": "Última cena, mezcal y maleta lista.",
+          "evening_en": "Last dinner, mezcal and pack."
+        }
+      ],
+      "pro_tip_es": "Hospédate en el pueblo (no en la zona de playa) y muévete en scooter o bici: ahorras hasta 70% y llegas más rápido a los cenotes.",
+      "pro_tip_en": "Stay in town (not on the beach strip) and use a scooter or bike: you save up to 70% and reach the cenotes faster."
+    },
+    "5": {
+      "title_es": "Itinerario de 5 días en Tulum: cenotes, ruinas y un día en Cobá",
+      "title_en": "5-day Tulum itinerary: cenotes, ruins and a day in Cobá",
+      "intro_es": "Cinco días en Tulum te dan espacio para sumar Cobá, Akumal y una mañana de yoga sin correr. El ritmo es lento y el plan se acopla al clima.",
+      "intro_en": "Five days in Tulum give you room to add Cobá, Akumal and a yoga morning without rushing. The pace is slow and the plan flexes with the weather.",
+      "days": [
+        {
+          "label_es": "Día 1 — Llegada + playa",
+          "label_en": "Day 1 — Arrival + beach",
+          "morning_es": "Llegada, check-in y un café tranquilo en Tulum pueblo.",
+          "morning_en": "Arrive, check in and a quiet coffee in Tulum town.",
+          "afternoon_es": "Bici por la zona de playa, snack en un beach club, sin estrés.",
+          "afternoon_en": "Bike the beach strip, snack at a beach club, no stress.",
+          "evening_es": "Cena boho frente al mar.",
+          "evening_en": "Boho dinner facing the sea."
+        },
+        {
+          "label_es": "Día 2 — Ruinas + Sian Ka'an",
+          "label_en": "Day 2 — Ruins + Sian Ka'an",
+          "morning_es": "Ruinas de Tulum a la apertura (8 am).",
+          "morning_en": "Tulum ruins at opening (8 am).",
+          "afternoon_es": "Tour de medio día por Sian Ka'an con guía local.",
+          "afternoon_en": "Half-day tour of Sian Ka'an with a local guide.",
+          "evening_es": "Cena en el pueblo y mezcal artesanal.",
+          "evening_en": "Dinner in town and craft mezcal."
+        },
+        {
+          "label_es": "Día 3 — Ruta de cenotes",
+          "label_en": "Day 3 — Cenote route",
+          "morning_es": "Gran Cenote para nadar con tortugas.",
+          "morning_en": "Gran Cenote to swim with turtles.",
+          "afternoon_es": "Cenote Calavera y Cenote Dos Ojos para snorkel.",
+          "afternoon_en": "Cenote Calavera and Cenote Dos Ojos for snorkeling.",
+          "evening_es": "Tacos en el pueblo, ceviche y descanso.",
+          "evening_en": "Tacos in town, ceviche and rest."
+        },
+        {
+          "label_es": "Día 4 — Cobá + nado con tortugas en Akumal",
+          "label_en": "Day 4 — Cobá + swim with turtles in Akumal",
+          "morning_es": "Sube la pirámide de Cobá (mientras se permita); a 45 min de Tulum.",
+          "morning_en": "Climb the Cobá pyramid (while it's still allowed); 45 min from Tulum.",
+          "afternoon_es": "Nado con tortugas marinas en la bahía de Akumal.",
+          "afternoon_en": "Swim with sea turtles in Akumal Bay.",
+          "evening_es": "Cena en el pueblo, mezcal en una mezcalería pequeña.",
+          "evening_en": "Dinner in town, mezcal at a small mezcalería."
+        },
+        {
+          "label_es": "Día 5 — Yoga + playa lenta",
+          "label_en": "Day 5 — Yoga + slow beach",
+          "morning_es": "Yoga al amanecer en la playa o desayuno largo.",
+          "morning_en": "Sunrise yoga on the beach or a long breakfast.",
+          "afternoon_es": "Día de playa en Paamul o regreso a Sian Ka'an para snorkel.",
+          "afternoon_en": "Beach day in Paamul or back to Sian Ka'an for snorkeling.",
+          "evening_es": "Cena de despedida con vista al mar.",
+          "evening_en": "Farewell dinner with an ocean view."
+        }
+      ],
+      "pro_tip_es": "Si vas a Akumal, llega antes de las 9 am para nadar con tortugas con poca gente. Después de las 10 ya hay tours grandes.",
+      "pro_tip_en": "For Akumal, arrive before 9 am to swim with turtles with few people. After 10 the big tours arrive."
+    },
+    "7": {
+      "title_es": "Itinerario de 7 días en Tulum: Riviera Maya completa",
+      "title_en": "7-day Tulum itinerary: the full Riviera Maya",
+      "intro_es": "Una semana en Tulum te permite extenderte a Bacalar y Holbox sin sacrificar tiempo de playa. Ideal si quieres ver más allá de la postal de Instagram.",
+      "intro_en": "A week in Tulum lets you reach Bacalar and Holbox without losing beach time. Perfect if you want to see beyond the Instagram postcard.",
+      "days": [
+        {
+          "label_es": "Día 1 — Llegada + playa",
+          "label_en": "Day 1 — Arrival + beach",
+          "morning_es": "Llegada, check-in y café en Tulum pueblo.",
+          "morning_en": "Arrive, check in and coffee in Tulum town.",
+          "afternoon_es": "Bici por la zona de playa, snack en un beach club.",
+          "afternoon_en": "Bike the beach strip, snack at a beach club.",
+          "evening_es": "Cena boho frente al mar.",
+          "evening_en": "Boho dinner facing the sea."
+        },
+        {
+          "label_es": "Día 2 — Ruinas + Sian Ka'an",
+          "label_en": "Day 2 — Ruins + Sian Ka'an",
+          "morning_es": "Ruinas de Tulum a la apertura.",
+          "morning_en": "Tulum ruins at opening.",
+          "afternoon_es": "Tour de medio día por Sian Ka'an.",
+          "afternoon_en": "Half-day tour of Sian Ka'an.",
+          "evening_es": "Cena en el pueblo.",
+          "evening_en": "Dinner in town."
+        },
+        {
+          "label_es": "Día 3 — Ruta de cenotes",
+          "label_en": "Day 3 — Cenote route",
+          "morning_es": "Gran Cenote y Cenote Calavera.",
+          "morning_en": "Gran Cenote and Cenote Calavera.",
+          "afternoon_es": "Cenote Dos Ojos para snorkel.",
+          "afternoon_en": "Cenote Dos Ojos for snorkeling.",
+          "evening_es": "Tacos y descanso.",
+          "evening_en": "Tacos and rest."
+        },
+        {
+          "label_es": "Día 4 — Cobá + Akumal",
+          "label_en": "Day 4 — Cobá + Akumal",
+          "morning_es": "Pirámide de Cobá temprano.",
+          "morning_en": "Cobá pyramid early.",
+          "afternoon_es": "Nado con tortugas en Akumal.",
+          "afternoon_en": "Swim with turtles in Akumal.",
+          "evening_es": "Cena en el pueblo.",
+          "evening_en": "Dinner in town."
+        },
+        {
+          "label_es": "Día 5 — Bacalar",
+          "label_en": "Day 5 — Bacalar",
+          "morning_es": "Sal temprano hacia Bacalar (3h); navega la laguna de 7 colores en velero.",
+          "morning_en": "Early drive to Bacalar (3h); sail the seven-color lagoon.",
+          "afternoon_es": "Cenote Azul para nadar.",
+          "afternoon_en": "Cenote Azul to swim.",
+          "evening_es": "Pernocta en Bacalar o regreso a Tulum.",
+          "evening_en": "Overnight in Bacalar or back to Tulum."
+        },
+        {
+          "label_es": "Día 6 — Holbox (opcional) o playa lenta",
+          "label_en": "Day 6 — Holbox (optional) or slow beach",
+          "morning_es": "Ferry desde Chiquilá a Holbox (sin coches en la isla).",
+          "morning_en": "Ferry from Chiquilá to Holbox (no cars on the island).",
+          "afternoon_es": "Playa Punta Mosquito y siesta en hamaca.",
+          "afternoon_en": "Punta Mosquito beach and a hammock nap.",
+          "evening_es": "Mariscos y atardecer.",
+          "evening_en": "Seafood and sunset."
+        },
+        {
+          "label_es": "Día 7 — Yoga + regreso",
+          "label_en": "Day 7 — Yoga + return",
+          "morning_es": "Yoga o playa relajada.",
+          "morning_en": "Yoga or relaxed beach.",
+          "afternoon_es": "Última comida en el pueblo.",
+          "afternoon_en": "Last meal in town.",
+          "evening_es": "Trasládate a Cancún para el vuelo.",
+          "evening_en": "Transfer to Cancún for the flight."
+        }
+      ],
+      "pro_tip_es": "Para Holbox no hay coches: deja el tuyo en Chiquilá (estacionamiento privado) y toma el ferry. La isla se cruza a pie en 1h.",
+      "pro_tip_en": "No cars in Holbox: leave yours in Chiquilá (private parking) and take the ferry. You can cross the island on foot in 1h."
+    }
+  },
+  "ciudad-de-mexico": {
+    "3": {
+      "title_es": "Itinerario de 3 días en Ciudad de México: lo imprescindible",
+      "title_en": "3-day Mexico City itinerary: the essentials",
+      "intro_es": "Un fin de semana largo en CDMX te alcanza para el Centro Histórico, Coyoacán y comer en Roma-Condesa. Sin pirámides ni excursiones largas.",
+      "intro_en": "A long weekend in CDMX covers the Historic Center, Coyoacán and eating in Roma-Condesa. No pyramids or long excursions.",
+      "days": [
+        {
+          "label_es": "Día 1 — Centro Histórico",
+          "label_en": "Day 1 — Historic Center",
+          "morning_es": "Zócalo, Catedral Metropolitana y Templo Mayor.",
+          "morning_en": "Zócalo, Metropolitan Cathedral and Templo Mayor.",
+          "afternoon_es": "Murales de Diego Rivera en Palacio Nacional; come en El Cardenal.",
+          "afternoon_en": "Diego Rivera murals at Palacio Nacional; lunch at El Cardenal.",
+          "evening_es": "Plaza Garibaldi para mariachi o un mezcal en el Centro.",
+          "evening_en": "Plaza Garibaldi for mariachi or a mezcal in the Centro."
+        },
+        {
+          "label_es": "Día 2 — Coyoacán y Frida",
+          "label_en": "Day 2 — Coyoacán & Frida",
+          "morning_es": "Casa Azul (Museo Frida Kahlo) — boletos en línea con anticipación.",
+          "morning_en": "Casa Azul (Frida Kahlo Museum) — buy tickets online in advance.",
+          "afternoon_es": "Camina Coyoacán, prueba un helado en el Mercado y café en la plaza.",
+          "afternoon_en": "Walk Coyoacán, try ice cream at the market and a coffee in the plaza.",
+          "evening_es": "Cena en Roma o Condesa (sin reserva entre semana).",
+          "evening_en": "Dinner in Roma or Condesa (no reservation needed midweek)."
+        },
+        {
+          "label_es": "Día 3 — Chapultepec + Roma-Condesa",
+          "label_en": "Day 3 — Chapultepec + Roma-Condesa",
+          "morning_es": "Museo Nacional de Antropología en Chapultepec.",
+          "morning_en": "National Museum of Anthropology in Chapultepec.",
+          "afternoon_es": "Camina la Condesa y café en Parque México.",
+          "afternoon_en": "Walk through Condesa and coffee at Parque México.",
+          "evening_es": "Tacos al pastor en El Vilsito o El Califa antes de irte.",
+          "evening_en": "Tacos al pastor at El Vilsito or El Califa before you leave."
+        }
+      ],
+      "pro_tip_es": "Usa el Metro o Uber, nunca taxi de la calle. Las distancias engañan: cruzar la ciudad en hora pico puede tomar 90 minutos.",
+      "pro_tip_en": "Use the Metro or Uber, never a street taxi. Distances are deceptive: crossing the city at rush hour can take 90 minutes."
+    },
+    "5": {
+      "title_es": "Itinerario de 5 días en Ciudad de México: pirámides, museos y mercados",
+      "title_en": "5-day Mexico City itinerary: pyramids, museums and markets",
+      "intro_es": "Cinco días te permiten sumar Teotihuacán, Xochimilco y un día completo de museos sin sacrificar tiempo para comer.",
+      "intro_en": "Five days let you add Teotihuacán, Xochimilco and a full museum day without sacrificing time to eat.",
+      "days": [
+        {
+          "label_es": "Día 1 — Centro Histórico",
+          "label_en": "Day 1 — Historic Center",
+          "morning_es": "Zócalo, Catedral y Templo Mayor.",
+          "morning_en": "Zócalo, Cathedral and Templo Mayor.",
+          "afternoon_es": "Palacio Nacional con los murales de Rivera; comida tradicional.",
+          "afternoon_en": "Palacio Nacional with Rivera's murals; traditional lunch.",
+          "evening_es": "Plaza Garibaldi y un mezcal artesanal.",
+          "evening_en": "Plaza Garibaldi and a craft mezcal."
+        },
+        {
+          "label_es": "Día 2 — Coyoacán + Frida",
+          "label_en": "Day 2 — Coyoacán + Frida",
+          "morning_es": "Casa Azul; reserva en línea con días de anticipación.",
+          "morning_en": "Casa Azul; reserve online days ahead.",
+          "afternoon_es": "Mercado y plaza de Coyoacán; café tranquilo.",
+          "afternoon_en": "Coyoacán market and plaza; quiet coffee.",
+          "evening_es": "Cena en Roma o Condesa.",
+          "evening_en": "Dinner in Roma or Condesa."
+        },
+        {
+          "label_es": "Día 3 — Teotihuacán",
+          "label_en": "Day 3 — Teotihuacán",
+          "morning_es": "Sal a las 7 am o vuelo en globo al amanecer.",
+          "morning_en": "Leave at 7 am or a sunrise balloon flight.",
+          "afternoon_es": "Pirámides del Sol y de la Luna; cuídate del sol.",
+          "afternoon_en": "Pyramids of the Sun and the Moon; watch out for the sun.",
+          "evening_es": "Regreso a CDMX y cena tranquila en Roma.",
+          "evening_en": "Back to CDMX and quiet dinner in Roma."
+        },
+        {
+          "label_es": "Día 4 — Xochimilco + Tlatelolco",
+          "label_en": "Day 4 — Xochimilco + Tlatelolco",
+          "morning_es": "Trajinera en Xochimilco con mariachi y comida.",
+          "morning_en": "Trajinera in Xochimilco with mariachi and food.",
+          "afternoon_es": "Tlatelolco y la Plaza de las Tres Culturas.",
+          "afternoon_en": "Tlatelolco and the Plaza de las Tres Culturas.",
+          "evening_es": "Cena en la Condesa, mezcalería al cierre.",
+          "evening_en": "Dinner in Condesa, mezcalería to close out."
+        },
+        {
+          "label_es": "Día 5 — Mercados + Roma",
+          "label_en": "Day 5 — Markets + Roma",
+          "morning_es": "Desayuno en el Mercado de Coyoacán o el de la Roma.",
+          "morning_en": "Breakfast at the Coyoacán or Roma market.",
+          "afternoon_es": "Artesanías en Bazar Sábado (si es sábado) o Mercado de la Ciudadela.",
+          "afternoon_en": "Crafts at Bazar Sábado (if Saturday) or Mercado de la Ciudadela.",
+          "evening_es": "Última cena al pastor antes del vuelo.",
+          "evening_en": "Last taco al pastor dinner before the flight."
+        }
+      ],
+      "pro_tip_es": "Para Teotihuacán, sale temprano: el sitio cierra a las 5 pm y el calor del mediodía es brutal sin sombra. Lleva agua y gorra.",
+      "pro_tip_en": "For Teotihuacán, leave early: the site closes at 5 pm and the midday sun is brutal with no shade. Bring water and a hat."
+    },
+    "7": {
+      "title_es": "Itinerario de 7 días en Ciudad de México: con Puebla y Tepoztlán",
+      "title_en": "7-day Mexico City itinerary: with Puebla and Tepoztlán",
+      "intro_es": "Una semana entera de CDMX te alcanza para sumar Puebla, Tepoztlán y una clase de cocina mexicana. Todo accesible en bus o tour de día.",
+      "intro_en": "A full week in CDMX covers Puebla, Tepoztlán and a Mexican cooking class. All reachable by bus or day tour.",
+      "days": [
+        {
+          "label_es": "Día 1 — Centro Histórico",
+          "label_en": "Day 1 — Historic Center",
+          "morning_es": "Zócalo, Catedral y Templo Mayor.",
+          "morning_en": "Zócalo, Cathedral and Templo Mayor.",
+          "afternoon_es": "Palacio Nacional y comida tradicional.",
+          "afternoon_en": "Palacio Nacional and traditional lunch.",
+          "evening_es": "Mezcal en el Centro.",
+          "evening_en": "Mezcal in the Centro."
+        },
+        {
+          "label_es": "Día 2 — Coyoacán + Frida",
+          "label_en": "Day 2 — Coyoacán + Frida",
+          "morning_es": "Casa Azul (con reserva).",
+          "morning_en": "Casa Azul (with reservation).",
+          "afternoon_es": "Mercado de Coyoacán y plaza.",
+          "afternoon_en": "Coyoacán market and plaza.",
+          "evening_es": "Cena en Roma-Condesa.",
+          "evening_en": "Dinner in Roma-Condesa."
+        },
+        {
+          "label_es": "Día 3 — Teotihuacán",
+          "label_en": "Day 3 — Teotihuacán",
+          "morning_es": "Vuelo en globo o llegada temprano a las pirámides.",
+          "morning_en": "Balloon ride or early arrival at the pyramids.",
+          "afternoon_es": "Pirámide del Sol y de la Luna.",
+          "afternoon_en": "Pyramid of the Sun and the Moon.",
+          "evening_es": "Regreso a CDMX, cena ligera.",
+          "evening_en": "Back to CDMX, light dinner."
+        },
+        {
+          "label_es": "Día 4 — Xochimilco + Chapultepec",
+          "label_en": "Day 4 — Xochimilco + Chapultepec",
+          "morning_es": "Trajinera por Xochimilco.",
+          "morning_en": "Trajinera in Xochimilco.",
+          "afternoon_es": "Museo Nacional de Antropología.",
+          "afternoon_en": "National Museum of Anthropology.",
+          "evening_es": "Cena en la Condesa.",
+          "evening_en": "Dinner in Condesa."
+        },
+        {
+          "label_es": "Día 5 — Puebla (día completo)",
+          "label_en": "Day 5 — Puebla (full day)",
+          "morning_es": "Bus ETN/ADO a Puebla (2h); centro colonial y catedral.",
+          "morning_en": "ETN/ADO bus to Puebla (2h); colonial center and cathedral.",
+          "afternoon_es": "Mole poblano en El Mural; talavera y el barrio del artista.",
+          "afternoon_en": "Mole poblano at El Mural; talavera and the artists' quarter.",
+          "evening_es": "Regreso a CDMX por la noche.",
+          "evening_en": "Back to CDMX at night."
+        },
+        {
+          "label_es": "Día 6 — Tepoztlán",
+          "label_en": "Day 6 — Tepoztlán",
+          "morning_es": "Sal a Tepoztlán (1.5h), sube al Tepozteco (caminata moderada de 2h).",
+          "morning_en": "Drive to Tepoztlán (1.5h), hike the Tepozteco (moderate 2h climb).",
+          "afternoon_es": "Mercado de Tepoztlán y comida típica.",
+          "afternoon_en": "Tepoztlán market and traditional food.",
+          "evening_es": "Regreso a CDMX, cena tranquila.",
+          "evening_en": "Back to CDMX, quiet dinner."
+        },
+        {
+          "label_es": "Día 7 — Cocina + compras",
+          "label_en": "Day 7 — Cooking + shopping",
+          "morning_es": "Clase de cocina mexicana en San Ángel o la Roma.",
+          "morning_en": "Mexican cooking class in San Ángel or Roma.",
+          "afternoon_es": "Mercado de la Ciudadela para artesanías.",
+          "afternoon_en": "Mercado de la Ciudadela for crafts.",
+          "evening_es": "Última cena con margaritas y a la maleta.",
+          "evening_en": "Last dinner with margaritas and pack."
+        }
+      ],
+      "pro_tip_es": "Toma el bus ETN o ADO a Puebla — son cómodos, hay WiFi y salen cada 30 min de la TAPO. Mucho más barato que un tour privado.",
+      "pro_tip_en": "Take the ETN or ADO bus to Puebla — comfortable, Wi-Fi included, leaving every 30 min from TAPO. Way cheaper than a private tour."
+    }
+  },
+  "oaxaca": {
+    "3": {
+      "title_es": "Itinerario de 3 días en Oaxaca: mezcal, mole y Monte Albán",
+      "title_en": "3-day Oaxaca itinerary: mezcal, mole and Monte Albán",
+      "intro_es": "Tres días enfocados en lo mejor de Oaxaca capital: ruinas zapotecas, la cocina más rica de México y un día por los valles de mezcal.",
+      "intro_en": "Three focused days on the best of Oaxaca city: Zapotec ruins, Mexico's richest cooking and a day through the mezcal valleys.",
+      "days": [
+        {
+          "label_es": "Día 1 — Centro y mercados",
+          "label_en": "Day 1 — Centro and markets",
+          "morning_es": "Zócalo, Catedral y andador turístico.",
+          "morning_en": "Zócalo, Cathedral and the andador turístico.",
+          "afternoon_es": "Mercado 20 de Noviembre: tlayudas, memelas y tasajo a la parrilla.",
+          "afternoon_en": "Mercado 20 de Noviembre: tlayudas, memelas and grilled tasajo.",
+          "evening_es": "Mezcal artesanal en una cantina del centro.",
+          "evening_en": "Craft mezcal in a Centro cantina."
+        },
+        {
+          "label_es": "Día 2 — Monte Albán + Arrazola",
+          "label_en": "Day 2 — Monte Albán + Arrazola",
+          "morning_es": "Sube a Monte Albán para ver el valle (30 min en colectivo).",
+          "morning_en": "Climb Monte Albán to see the valley (30 min by colectivo).",
+          "afternoon_es": "Para en San Antonio Arrazola por los alebrijes (talleres familiares).",
+          "afternoon_en": "Stop in San Antonio Arrazola for alebrijes (family workshops).",
+          "evening_es": "Cena en Casa Oaxaca o algo sencillo en Xochimilco.",
+          "evening_en": "Dinner at Casa Oaxaca or something simple in Xochimilco."
+        },
+        {
+          "label_es": "Día 3 — Hierve el Agua + ruta de mezcal",
+          "label_en": "Day 3 — Hierve el Agua + mezcal route",
+          "morning_es": "Salida a Hierve el Agua: cascadas petrificadas y pozas naturales.",
+          "morning_en": "Drive to Hierve el Agua: petrified waterfalls and natural pools.",
+          "afternoon_es": "Para en Santiago Matatlán para una cata directo en el palenque.",
+          "afternoon_en": "Stop in Santiago Matatlán for a tasting straight from the palenque.",
+          "evening_es": "Regreso, cena de tasajo y mole negro.",
+          "evening_en": "Back home, dinner of tasajo and mole negro."
+        }
+      ],
+      "pro_tip_es": "Las mejores tlayudas no están en restaurantes turísticos sino en los puestos nocturnos del Centro y mercados. Pregúntale a un local cuál es su favorito.",
+      "pro_tip_en": "The best tlayudas aren't in tourist restaurants but in the Centro night stalls and markets. Ask a local for their favorite."
+    },
+    "5": {
+      "title_es": "Itinerario de 5 días en Oaxaca: pueblos, palenques y mercados",
+      "title_en": "5-day Oaxaca itinerary: villages, palenques and markets",
+      "intro_es": "Cinco días te permiten meterte en los valles centrales: Mitla, el mercado de Tlacolula (domingo), un día de cocina y otro de pueblos artesanales.",
+      "intro_en": "Five days let you explore the central valleys: Mitla, the Tlacolula market (Sunday), a cooking day and another for craft villages.",
+      "days": [
+        {
+          "label_es": "Día 1 — Centro y mercados",
+          "label_en": "Day 1 — Centro and markets",
+          "morning_es": "Zócalo, andador turístico y café en el Templo de Santo Domingo.",
+          "morning_en": "Zócalo, andador turístico and coffee by Santo Domingo.",
+          "afternoon_es": "Mercado 20 de Noviembre para comida típica.",
+          "afternoon_en": "Mercado 20 de Noviembre for traditional food.",
+          "evening_es": "Mezcal en una cantina del centro.",
+          "evening_en": "Mezcal in a Centro cantina."
+        },
+        {
+          "label_es": "Día 2 — Monte Albán + Arrazola",
+          "label_en": "Day 2 — Monte Albán + Arrazola",
+          "morning_es": "Monte Albán: vista del valle y arquitectura zapoteca.",
+          "morning_en": "Monte Albán: valley views and Zapotec architecture.",
+          "afternoon_es": "Alebrijes en San Antonio Arrazola.",
+          "afternoon_en": "Alebrijes in San Antonio Arrazola.",
+          "evening_es": "Cena en Casa Oaxaca o Origen.",
+          "evening_en": "Dinner at Casa Oaxaca or Origen."
+        },
+        {
+          "label_es": "Día 3 — Hierve el Agua + mezcal",
+          "label_en": "Day 3 — Hierve el Agua + mezcal",
+          "morning_es": "Hierve el Agua temprano para evitar los tours grandes.",
+          "morning_en": "Hierve el Agua early to beat the big tours.",
+          "afternoon_es": "Ruta de mezcal en Santiago Matatlán: 2-3 palenques.",
+          "afternoon_en": "Mezcal route in Santiago Matatlán: 2-3 palenques.",
+          "evening_es": "Regreso, cena de mole.",
+          "evening_en": "Back home, mole for dinner."
+        },
+        {
+          "label_es": "Día 4 — Mitla + Tule + Teotitlán",
+          "label_en": "Day 4 — Mitla + Tule + Teotitlán",
+          "morning_es": "Tule (árbol milenario) y Mitla (ruinas zapotecas con grecas).",
+          "morning_en": "Tule (ancient tree) and Mitla (Zapotec ruins with mosaics).",
+          "afternoon_es": "Telares de Teotitlán del Valle y comida con familia local.",
+          "afternoon_en": "Teotitlán del Valle weavers and lunch with a local family.",
+          "evening_es": "Cena en el centro de Oaxaca.",
+          "evening_en": "Dinner in central Oaxaca."
+        },
+        {
+          "label_es": "Día 5 — Cocina (o Tlacolula si es domingo)",
+          "label_en": "Day 5 — Cooking (or Tlacolula if Sunday)",
+          "morning_es": "Clase de cocina oaxaqueña (Casa Crespo o Sabores de Oaxaca).",
+          "morning_en": "Oaxacan cooking class (Casa Crespo or Sabores de Oaxaca).",
+          "afternoon_es": "Si es domingo, mercado de Tlacolula es uno de los más grandes de México.",
+          "afternoon_en": "If it's Sunday, Tlacolula market is one of Mexico's largest.",
+          "evening_es": "Última cena con mezcal artesanal.",
+          "evening_en": "Last dinner with craft mezcal."
+        }
+      ],
+      "pro_tip_es": "Si tu viaje cae en domingo, no te pierdas el mercado de Tlacolula — el más grande y auténtico de los valles. Llega antes de las 11 am.",
+      "pro_tip_en": "If your trip hits a Sunday, don't miss the Tlacolula market — the largest and most authentic in the valleys. Arrive before 11 am."
+    },
+    "7": {
+      "title_es": "Itinerario de 7 días en Oaxaca: ciudad, valles y la costa",
+      "title_en": "7-day Oaxaca itinerary: city, valleys and the coast",
+      "intro_es": "Una semana es ideal para combinar Oaxaca capital con un par de noches en la costa (Puerto Escondido o Mazunte). El vuelo interno ahorra el viaje por carretera.",
+      "intro_en": "A week is ideal for combining Oaxaca city with a couple of nights on the coast (Puerto Escondido or Mazunte). The internal flight saves the road trip.",
+      "days": [
+        {
+          "label_es": "Día 1 — Centro y mercados",
+          "label_en": "Day 1 — Centro and markets",
+          "morning_es": "Zócalo, andador turístico y Santo Domingo.",
+          "morning_en": "Zócalo, andador turístico and Santo Domingo.",
+          "afternoon_es": "Mercado 20 de Noviembre.",
+          "afternoon_en": "Mercado 20 de Noviembre.",
+          "evening_es": "Mezcal en el centro.",
+          "evening_en": "Mezcal in the Centro."
+        },
+        {
+          "label_es": "Día 2 — Monte Albán + Arrazola",
+          "label_en": "Day 2 — Monte Albán + Arrazola",
+          "morning_es": "Monte Albán temprano.",
+          "morning_en": "Monte Albán early.",
+          "afternoon_es": "Alebrijes en Arrazola.",
+          "afternoon_en": "Alebrijes in Arrazola.",
+          "evening_es": "Cena en Casa Oaxaca.",
+          "evening_en": "Dinner at Casa Oaxaca."
+        },
+        {
+          "label_es": "Día 3 — Hierve el Agua + mezcal",
+          "label_en": "Day 3 — Hierve el Agua + mezcal",
+          "morning_es": "Hierve el Agua al amanecer.",
+          "morning_en": "Hierve el Agua at sunrise.",
+          "afternoon_es": "Ruta de palenques en Matatlán.",
+          "afternoon_en": "Palenque route in Matatlán.",
+          "evening_es": "Cena de mole.",
+          "evening_en": "Mole for dinner."
+        },
+        {
+          "label_es": "Día 4 — Mitla + Tule + Teotitlán",
+          "label_en": "Day 4 — Mitla + Tule + Teotitlán",
+          "morning_es": "Tule y Mitla.",
+          "morning_en": "Tule and Mitla.",
+          "afternoon_es": "Telares de Teotitlán del Valle.",
+          "afternoon_en": "Teotitlán del Valle weavers.",
+          "evening_es": "Cena en el centro.",
+          "evening_en": "Dinner in the Centro."
+        },
+        {
+          "label_es": "Día 5 — Cocina y descanso",
+          "label_en": "Day 5 — Cooking and rest",
+          "morning_es": "Clase de cocina oaxaqueña.",
+          "morning_en": "Oaxacan cooking class.",
+          "afternoon_es": "Compras de artesanías y mole en grano.",
+          "afternoon_en": "Shopping for crafts and mole paste.",
+          "evening_es": "Empaca para la costa.",
+          "evening_en": "Pack for the coast."
+        },
+        {
+          "label_es": "Día 6 — Vuelo a Puerto Escondido",
+          "label_en": "Day 6 — Flight to Puerto Escondido",
+          "morning_es": "Vuelo corto a la costa (30 min vs 7 h en bus).",
+          "morning_en": "Short flight to the coast (30 min vs 7h by bus).",
+          "afternoon_es": "Playa Carrizalillo o Bacocho.",
+          "afternoon_en": "Playa Carrizalillo or Bacocho.",
+          "evening_es": "Pescado fresco al puerto.",
+          "evening_en": "Fresh fish at the port."
+        },
+        {
+          "label_es": "Día 7 — Bioluminiscencia o regreso",
+          "label_en": "Day 7 — Bioluminescence or return",
+          "morning_es": "Mañana de playa o snorkel.",
+          "morning_en": "Beach morning or snorkeling.",
+          "afternoon_es": "Si hay luna nueva, tour nocturno de bioluminiscencia en Manialtepec.",
+          "afternoon_en": "If new moon, nighttime bioluminescence tour in Manialtepec.",
+          "evening_es": "Vuelo de regreso.",
+          "evening_en": "Flight home."
+        }
+      ],
+      "pro_tip_es": "Para la costa, vuelo de Aerotucán o Aerus: son avionetas pequeñas y el tramo por carretera son 7-8h de curvas. El precio compensa.",
+      "pro_tip_en": "For the coast, take the Aerotucán or Aerus flight: small planes, but the road trip is 7-8h of switchbacks. The price is worth it."
+    }
+  }
+}

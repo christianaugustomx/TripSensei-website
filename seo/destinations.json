@@ -1,0 +1,182 @@
+[
+  {
+    "slug":"cancun","name":"Cancún","en_name":"Cancún","country_es":"México","country_en":"Mexico","flag":"🇲🇽","cluster":"mexico","days":"4–5",
+    "best_es":"De diciembre a abril: clima seco, mar turquesa y poca lluvia. Evita septiembre–octubre por temporada de huracanes.",
+    "best_en":"December to April: dry weather, turquoise water and little rain. Avoid September–October for hurricane season.",
+    "intro_es":"Cancún es la puerta al Caribe mexicano: playas de arena blanca, cenotes y las ruinas mayas a un par de horas. La Zona Hotelera concentra los resorts; el Centro es más barato y local.",
+    "intro_en":"Cancún is the gateway to the Mexican Caribbean: white-sand beaches, cenotes and Maya ruins a couple of hours away. The Hotel Zone holds the resorts; Downtown is cheaper and more local.",
+    "things":[
+      {"t_es":"Nadar en un cenote","t_en":"Swim in a cenote","d_es":"Cenotes como Dos Ojos o Ik Kil son cuevas de agua dulce cristalina, ideales para snorkel.","d_en":"Cenotes like Dos Ojos or Ik Kil are crystal-clear freshwater caves, great for snorkeling."},
+      {"t_es":"Visitar Chichén Itzá o Tulum","t_en":"Visit Chichén Itzá or Tulum","d_es":"Dos sitios mayas a 2–3 h; ve temprano para evitar el calor y las multitudes.","d_en":"Two Maya sites 2–3h away; go early to beat the heat and crowds."},
+      {"t_es":"Isla Mujeres en ferry","t_en":"Ferry to Isla Mujeres","d_es":"20 min en ferry desde Puerto Juárez; rentas un carrito de golf y recorres la isla en un día.","d_en":"20-min ferry from Puerto Juárez; rent a golf cart and circle the island in a day."},
+      {"t_es":"Snorkel en el arrecife","t_en":"Snorkel the reef","d_es":"Parte del segundo arrecife más grande del mundo; tours salen de Cancún y Puerto Morelos.","d_en":"Part of the world's second-largest reef; tours leave from Cancún and Puerto Morelos."}
+    ],
+    "tip_es":"Compra agua y snacks en el Centro o en un OXXO antes de ir a la Zona Hotelera: los precios dentro de los resorts son el triple.",
+    "tip_en":"Buy water and snacks Downtown or at an OXXO before heading to the Hotel Zone: prices inside the resorts are triple."
+  },
+  {
+    "slug":"tulum","name":"Tulum","en_name":"Tulum","country_es":"México","country_en":"Mexico","flag":"🇲🇽","cluster":"mexico","days":"3–4",
+    "best_es":"Noviembre a marzo es lo mejor: menos calor y menos sargazo. Revisa reportes de sargazo antes de reservar playa.",
+    "best_en":"November to March is best: less heat and less sargassum seaweed. Check sargassum reports before booking a beach stay.",
+    "intro_es":"Tulum mezcla ruinas mayas frente al mar, cenotes y un ambiente boho. Es más caro de lo que parece: la zona de playa tiene precios de Tulum, el pueblo es mucho más accesible.",
+    "intro_en":"Tulum blends clifftop Maya ruins, cenotes and a boho vibe. It's pricier than it looks: the beach strip charges Tulum prices, the town is far more affordable.",
+    "things":[
+      {"t_es":"Ruinas de Tulum al amanecer","t_en":"Tulum ruins at sunrise","d_es":"El único sitio maya frente al Caribe; llega a la apertura (8 am) para tener las fotos sin gente.","d_en":"The only Maya site on the Caribbean; arrive at opening (8am) for crowd-free photos."},
+      {"t_es":"Ruta de cenotes","t_en":"Cenote route","d_es":"Gran Cenote, Calavera y Dos Ojos están a minutos en bici o scooter.","d_en":"Gran Cenote, Calavera and Dos Ojos are minutes away by bike or scooter."},
+      {"t_es":"Reserva de Sian Ka'an","t_en":"Sian Ka'an reserve","d_es":"Biósfera UNESCO con manglares y delfines; tours de medio día desde el pueblo.","d_en":"UNESCO biosphere with mangroves and dolphins; half-day tours from town."},
+      {"t_es":"Bici por la zona de playa","t_en":"Bike the beach strip","d_es":"La forma más barata y rápida de moverte; el tráfico de coches es lentísimo.","d_en":"The cheapest, fastest way around; car traffic crawls."}
+    ],
+    "tip_es":"Hospédate en el pueblo y muévete en scooter: ahorras hasta 70% vs los hoteles de playa y llegas a los cenotes más rápido.",
+    "tip_en":"Stay in town and get a scooter: you save up to 70% vs beach hotels and reach the cenotes faster."
+  },
+  {
+    "slug":"ciudad-de-mexico","name":"Ciudad de México","en_name":"Mexico City","country_es":"México","country_en":"Mexico","flag":"🇲🇽","cluster":"mexico","days":"4–6",
+    "best_es":"Marzo a mayo es seco y cálido. La temporada de lluvias (junio–septiembre) trae aguaceros breves por la tarde.",
+    "best_en":"March to May is dry and warm. The rainy season (June–September) brings short afternoon downpours.",
+    "intro_es":"La CDMX es una de las capitales culturales más densas del mundo: pirámides, museos de primer nivel y una escena gastronómica que va del taco de la esquina al restaurante con estrella.",
+    "intro_en":"Mexico City is one of the densest cultural capitals on earth: pyramids, world-class museums and a food scene from corner taco stand to starred restaurant.",
+    "things":[
+      {"t_es":"Teotihuacán","t_en":"Teotihuacán","d_es":"Pirámides a 1 h de la ciudad; ve temprano y considera un vuelo en globo al amanecer.","d_en":"Pyramids 1h from the city; go early and consider a sunrise balloon ride."},
+      {"t_es":"Centro Histórico y Zócalo","t_en":"Historic Center & Zócalo","d_es":"Catedral, Templo Mayor y los murales de Diego Rivera en Palacio Nacional.","d_en":"Cathedral, Templo Mayor and Diego Rivera's murals in the National Palace."},
+      {"t_es":"Coyoacán y Casa Azul","t_en":"Coyoacán & Casa Azul","d_es":"El barrio de Frida Kahlo; compra boletos del museo en línea con anticipación.","d_en":"Frida Kahlo's neighborhood; buy museum tickets online in advance."},
+      {"t_es":"Comer en Roma–Condesa","t_en":"Eat in Roma–Condesa","d_es":"Colonias arboladas con los mejores cafés, mezcalerías y cocina contemporánea.","d_en":"Leafy neighborhoods with the best cafés, mezcalerías and modern cooking."}
+    ],
+    "tip_es":"Usa Uber o el Metro en vez de parar taxis en la calle, y trae efectivo para los puestos de comida: muchos no aceptan tarjeta.",
+    "tip_en":"Use Uber or the Metro instead of hailing street taxis, and carry cash for food stalls: many don't take cards."
+  },
+  {
+    "slug":"oaxaca","name":"Oaxaca","en_name":"Oaxaca","country_es":"México","country_en":"Mexico","flag":"🇲🇽","cluster":"mexico","days":"3–5",
+    "best_es":"Octubre–noviembre para Día de Muertos (reserva con meses de anticipación) o la primavera seca de marzo–mayo.",
+    "best_en":"October–November for Day of the Dead (book months ahead) or the dry spring of March–May.",
+    "intro_es":"Oaxaca es el corazón gastronómico y artesanal de México: mole, mezcal, mercados vibrantes y pueblos zapotecos en los valles cercanos.",
+    "intro_en":"Oaxaca is Mexico's culinary and craft heartland: mole, mezcal, vibrant markets and Zapotec villages in the nearby valleys.",
+    "things":[
+      {"t_es":"Monte Albán","t_en":"Monte Albán","d_es":"Ciudad zapoteca en una montaña con vistas del valle; 30 min desde el centro.","d_en":"Zapotec city on a hilltop overlooking the valley; 30 min from downtown."},
+      {"t_es":"Ruta del mezcal","t_en":"Mezcal route","d_es":"Palenques familiares en Santiago Matatlán; cata directo del productor.","d_en":"Family palenques in Santiago Matatlán; taste straight from the maker."},
+      {"t_es":"Hierve el Agua","t_en":"Hierve el Agua","d_es":"Cascadas petrificadas y pozas naturales; ve temprano para evitar tours.","d_en":"Petrified waterfalls and natural infinity pools; go early to beat the tours."},
+      {"t_es":"Mercados y cocina","t_en":"Markets & cooking","d_es":"Mercado 20 de Noviembre para tasajo y un taller de cocina oaxaqueña.","d_en":"Mercado 20 de Noviembre for tasajo and an Oaxacan cooking class."}
+    ],
+    "tip_es":"Las mejores tlayudas no están en restaurantes turísticos sino en los mercados y puestos nocturnos: pregunta a un local por su favorito.",
+    "tip_en":"The best tlayudas aren't in tourist restaurants but in markets and night stalls: ask a local for their favorite."
+  },
+  {
+    "slug":"cartagena","name":"Cartagena","en_name":"Cartagena","country_es":"Colombia","country_en":"Colombia","flag":"🇨🇴","cluster":"sudamerica","days":"3–4",
+    "best_es":"Diciembre a abril es la temporada seca. Hace calor todo el año, así que ropa ligera siempre.",
+    "best_en":"December to April is the dry season. It's hot year-round, so pack light clothing always.",
+    "intro_es":"Cartagena es la joya colonial del Caribe colombiano: murallas del siglo XVI, calles de colores y playas de islas a un viaje en lancha.",
+    "intro_en":"Cartagena is the colonial jewel of the Colombian Caribbean: 16th-century walls, color-drenched streets and island beaches a boat ride away.",
+    "things":[
+      {"t_es":"Ciudad amurallada","t_en":"Walled city","d_es":"Pierde el rumbo entre balcones de buganvilias; camina la muralla al atardecer.","d_en":"Get lost among bougainvillea balconies; walk the wall at sunset."},
+      {"t_es":"Islas del Rosario","t_en":"Rosario Islands","d_es":"Agua turquesa a 45 min en lancha; elige un day pass con almuerzo incluido.","d_en":"Turquoise water 45 min by boat; pick a day pass with lunch included."},
+      {"t_es":"Getsemaní","t_en":"Getsemaní","d_es":"El barrio de arte callejero y vida nocturna; la Plaza de la Trinidad de noche.","d_en":"The street-art and nightlife neighborhood; Plaza de la Trinidad after dark."},
+      {"t_es":"Castillo San Felipe","t_en":"San Felipe Castle","d_es":"Fortaleza colonial con túneles y vistas de toda la ciudad.","d_en":"Colonial fortress with tunnels and city-wide views."}
+    ],
+    "tip_es":"Acuerda el precio del taxi antes de subir (no usan taxímetro) o pide un InDriver/Uber para evitar el sobreprecio turístico.",
+    "tip_en":"Agree the taxi fare before getting in (no meters) or use InDriver/Uber to avoid tourist markups."
+  },
+  {
+    "slug":"buenos-aires","name":"Buenos Aires","en_name":"Buenos Aires","country_es":"Argentina","country_en":"Argentina","flag":"🇦🇷","cluster":"sudamerica","days":"4–5",
+    "best_es":"Primavera (septiembre–noviembre) y otoño (marzo–mayo) tienen el clima más agradable. Recuerda: las estaciones están invertidas.",
+    "best_en":"Spring (September–November) and autumn (March–May) have the nicest weather. Remember: seasons are flipped.",
+    "intro_es":"Buenos Aires es la capital más europea de Latinoamérica: tango, parrillas, librerías históricas y barrios con personalidad propia.",
+    "intro_en":"Buenos Aires is Latin America's most European capital: tango, steakhouses, historic bookshops and neighborhoods with strong personalities.",
+    "things":[
+      {"t_es":"Show de tango en San Telmo","t_en":"Tango show in San Telmo","d_es":"Una milonga auténtica o un show con cena; el barrio respira tango.","d_en":"An authentic milonga or a dinner show; the neighborhood breathes tango."},
+      {"t_es":"Recoleta y su cementerio","t_en":"Recoleta & its cemetery","d_es":"Mausoleos monumentales, incluida la tumba de Evita.","d_en":"Monumental mausoleums, including Evita's tomb."},
+      {"t_es":"Parrilla argentina","t_en":"Argentine parrilla","d_es":"Bife de chorizo con un Malbec; pide la carne 'a punto'.","d_en":"Bife de chorizo with a Malbec; order the steak 'a punto' (medium)."},
+      {"t_es":"El Caminito en La Boca","t_en":"El Caminito in La Boca","d_es":"Casas de colores y fútbol en La Bombonera; ve de día por seguridad.","d_en":"Brightly painted houses and football at La Bombonera; go by day for safety."}
+    ],
+    "tip_es":"Cambia dólares en efectivo: el 'dólar blue' rinde mucho más que la tarjeta. Pregunta a tu alojamiento por una cueva confiable.",
+    "tip_en":"Bring cash dollars: the 'blue dollar' rate stretches far further than card payments. Ask your host for a trusted exchange."
+  },
+  {
+    "slug":"cusco","name":"Cusco","en_name":"Cusco","country_es":"Perú","country_en":"Peru","flag":"🇵🇪","cluster":"sudamerica","days":"4–6",
+    "best_es":"Mayo a septiembre es la temporada seca, ideal para Machu Picchu. Reserva boletos y trenes con semanas de anticipación.",
+    "best_en":"May to September is the dry season, ideal for Machu Picchu. Book tickets and trains weeks ahead.",
+    "intro_es":"Cusco fue la capital del imperio inca y es la base para Machu Picchu y el Valle Sagrado. Está a 3,400 m, así que la altura se siente.",
+    "intro_en":"Cusco was the Inca empire's capital and the base for Machu Picchu and the Sacred Valley. It sits at 3,400m, so the altitude is real.",
+    "things":[
+      {"t_es":"Machu Picchu","t_en":"Machu Picchu","d_es":"Tren a Aguas Calientes + bus; compra el boleto con fecha y horario fijos.","d_en":"Train to Aguas Calientes + bus; buy the timed-entry ticket in advance."},
+      {"t_es":"Valle Sagrado","t_en":"Sacred Valley","d_es":"Pisac, Ollantaytambo y Maras–Moray en un día con guía.","d_en":"Pisac, Ollantaytambo and Maras–Moray in a guided day trip."},
+      {"t_es":"Montaña de 7 Colores","t_en":"Rainbow Mountain","d_es":"Caminata de altura exigente (5,000 m); aclimátate primero en Cusco.","d_en":"A tough high-altitude hike (5,000m); acclimatize in Cusco first."},
+      {"t_es":"San Blas y San Pedro","t_en":"San Blas & San Pedro market","d_es":"Barrio de artesanos y el mercado para probar fruta y jugos.","d_en":"Artisan quarter and the market to try fruit and fresh juices."}
+    ],
+    "tip_es":"Llega uno o dos días antes para aclimatarte a la altura, toma mate de coca y evita el alcohol la primera noche.",
+    "tip_en":"Arrive a day or two early to acclimatize, drink coca tea, and skip alcohol your first night."
+  },
+  {
+    "slug":"rio-de-janeiro","name":"Río de Janeiro","en_name":"Rio de Janeiro","country_es":"Brasil","country_en":"Brazil","flag":"🇧🇷","cluster":"sudamerica","days":"4–5",
+    "best_es":"Diciembre a marzo es verano (caluroso y de fiesta, incluido Carnaval). Mayo–octubre es más fresco y seco.",
+    "best_en":"December to March is summer (hot and festive, Carnaval included). May–October is cooler and drier.",
+    "intro_es":"Río combina montañas, selva y playa dentro de la ciudad: el Cristo, el Pan de Azúcar y Copacabana en un mismo skyline.",
+    "intro_en":"Rio blends mountains, jungle and beach inside the city: Christ the Redeemer, Sugarloaf and Copacabana in one skyline.",
+    "things":[
+      {"t_es":"Cristo Redentor","t_en":"Christ the Redeemer","d_es":"Sube en el tren del Corcovado; ve temprano antes de que entren las nubes.","d_en":"Ride the Corcovado train; go early before the clouds roll in."},
+      {"t_es":"Pan de Azúcar","t_en":"Sugarloaf","d_es":"Teleférico al atardecer para ver la ciudad encenderse.","d_en":"Cable car at sunset to watch the city light up."},
+      {"t_es":"Copacabana e Ipanema","t_en":"Copacabana & Ipanema","d_es":"Playas icónicas; renta una sombrilla y prueba un agua de coco.","d_en":"Iconic beaches; rent an umbrella and try fresh coconut water."},
+      {"t_es":"Escadaria Selarón","t_en":"Selarón Steps","d_es":"Las escaleras de azulejos en Lapa, gratis y muy fotogénicas.","d_en":"The tiled steps in Lapa, free and very photogenic."}
+    ],
+    "tip_es":"Lleva solo lo necesario a la playa (nada de joyas ni tu teléfono a la vista) y usa Uber de noche en vez de caminar.",
+    "tip_en":"Take only the essentials to the beach (no jewelry, keep your phone out of sight) and use Uber at night instead of walking."
+  },
+  {
+    "slug":"nueva-york","name":"Nueva York","en_name":"New York City","country_es":"Estados Unidos","country_en":"United States","flag":"🇺🇸","cluster":"usa","days":"4–6",
+    "best_es":"Abril–junio y septiembre–noviembre tienen el mejor clima. Diciembre es mágico pero frío y caro.",
+    "best_en":"April–June and September–November have the best weather. December is magical but cold and pricey.",
+    "intro_es":"Nueva York es la ciudad que define el viaje urbano: rascacielos, museos de clase mundial, Broadway y un barrio distinto en cada esquina.",
+    "intro_en":"New York is the city that defines urban travel: skyscrapers, world-class museums, Broadway and a different neighborhood on every corner.",
+    "things":[
+      {"t_es":"Central Park y museos","t_en":"Central Park & museums","d_es":"Camina el parque y entra al Met o al MoMA; el Met es 'paga lo que quieras' para residentes de NY.","d_en":"Walk the park and hit the Met or MoMA; the Met is pay-what-you-wish for NY residents."},
+      {"t_es":"Mirador (Top of the Rock / Edge)","t_en":"Observation deck (Top of the Rock / Edge)","d_es":"Mejores vistas que el Empire porque lo incluyen en el skyline.","d_en":"Better views than the Empire because it's in the skyline you're seeing."},
+      {"t_es":"Estatua de la Libertad","t_en":"Statue of Liberty","d_es":"El ferry gratis de Staten Island pasa muy cerca sin costo.","d_en":"The free Staten Island Ferry passes close by at no cost."},
+      {"t_es":"Un show de Broadway","t_en":"A Broadway show","d_es":"Boletos de último minuto en TKTS de Times Square con descuento.","d_en":"Last-minute discounted tickets at the TKTS booth in Times Square."}
+    ],
+    "tip_es":"Compra una MetroCard o usa pago sin contacto (OMNY) en el metro: moverte en taxi te cuesta 5–10x y es más lento en hora pico.",
+    "tip_en":"Get a MetroCard or tap contactless (OMNY) on the subway: cabs cost 5–10x more and are slower at rush hour."
+  },
+  {
+    "slug":"miami","name":"Miami","en_name":"Miami","country_es":"Estados Unidos","country_en":"United States","flag":"🇺🇸","cluster":"usa","days":"3–4",
+    "best_es":"Noviembre a abril: cálido, seco y sin huracanes. El verano es húmedo y con tormentas por la tarde.",
+    "best_en":"November to April: warm, dry and hurricane-free. Summer is humid with afternoon storms.",
+    "intro_es":"Miami es playa, Art Déco y cultura latina: el punto de entrada favorito para quienes quieren sol y español en Estados Unidos.",
+    "intro_en":"Miami is beach, Art Deco and Latin culture: the favorite entry point for those who want sun and Spanish in the United States.",
+    "things":[
+      {"t_es":"South Beach y Ocean Drive","t_en":"South Beach & Ocean Drive","d_es":"Arena, edificios Art Déco pastel y gente; mejor de día para fotos.","d_en":"Sand, pastel Art Deco buildings and crowds; best by day for photos."},
+      {"t_es":"Wynwood Walls","t_en":"Wynwood Walls","d_es":"El distrito de murales y galerías; cafés y cervecerías alrededor.","d_en":"The mural and gallery district; cafés and breweries all around."},
+      {"t_es":"Little Havana","t_en":"Little Havana","d_es":"Calle Ocho, café cubano y dominó en el Máximo Gómez Park.","d_en":"Calle Ocho, Cuban coffee and dominoes at Máximo Gómez Park."},
+      {"t_es":"Everglades","t_en":"Everglades","d_es":"Paseo en airboat para ver caimanes a 1 h de la ciudad.","d_en":"Airboat ride to spot alligators 1h from the city."}
+    ],
+    "tip_es":"Rentar coche conviene: el transporte público es flojo y los puntos de interés están dispersos. Ojo con el precio del estacionamiento en South Beach.",
+    "tip_en":"Renting a car pays off: public transit is weak and the sights are spread out. Watch parking prices in South Beach."
+  },
+  {
+    "slug":"los-angeles","name":"Los Ángeles","en_name":"Los Angeles","country_es":"Estados Unidos","country_en":"United States","flag":"🇺🇸","cluster":"usa","days":"4–5",
+    "best_es":"Marzo a mayo y septiembre a noviembre: cielos despejados y menos multitudes que en verano.",
+    "best_en":"March to May and September to November: clear skies and fewer crowds than summer.",
+    "intro_es":"Los Ángeles es enorme y se vive en coche: playas, Hollywood, montañas y parques temáticos repartidos en kilómetros de ciudad.",
+    "intro_en":"Los Angeles is huge and lived in by car: beaches, Hollywood, mountains and theme parks spread across miles of city.",
+    "things":[
+      {"t_es":"Letrero de Hollywood y Griffith","t_en":"Hollywood Sign & Griffith","d_es":"El Observatorio Griffith tiene las mejores vistas del letrero y la ciudad, gratis.","d_en":"Griffith Observatory has the best free views of the sign and the city."},
+      {"t_es":"Santa Mónica y Venice","t_en":"Santa Monica & Venice","d_es":"El muelle, la playa y el paseo de Venice; renta una bici por la costa.","d_en":"The pier, the beach and Venice boardwalk; rent a bike along the coast."},
+      {"t_es":"Getty Center","t_en":"Getty Center","d_es":"Arte y jardines con vista al océano; entrada gratis, solo pagas estacionamiento.","d_en":"Art and gardens overlooking the ocean; free entry, you only pay parking."},
+      {"t_es":"Parques temáticos","t_en":"Theme parks","d_es":"Universal Studios en la ciudad; Disneyland a 1 h en Anaheim.","d_en":"Universal Studios in the city; Disneyland 1h away in Anaheim."}
+    ],
+    "tip_es":"Planea tu día por zonas geográficas: cruzar LA en hora pico puede tomar 2 horas. Apps de tráfico son tu mejor amigo.",
+    "tip_en":"Plan your day by geographic zones: crossing LA at rush hour can take 2 hours. Traffic apps are your best friend."
+  },
+  {
+    "slug":"las-vegas","name":"Las Vegas","en_name":"Las Vegas","country_es":"Estados Unidos","country_en":"United States","flag":"🇺🇸","cluster":"usa","days":"2–4",
+    "best_es":"Marzo–mayo y octubre–noviembre tienen clima templado. El verano supera fácil los 40°C.",
+    "best_en":"March–May and October–November are mild. Summer easily tops 40°C (104°F).",
+    "intro_es":"Las Vegas es entretenimiento sin límite: hoteles temáticos, shows, buffets y la puerta de entrada a los grandes parques del suroeste.",
+    "intro_en":"Las Vegas is entertainment without limits: themed hotels, shows, buffets and the gateway to the great Southwest parks.",
+    "things":[
+      {"t_es":"Caminar el Strip","t_en":"Walk the Strip","d_es":"Fuentes del Bellagio, góndolas del Venetian y casinos temáticos, todo gratis de ver.","d_en":"Bellagio fountains, Venetian gondolas and themed casinos, all free to see."},
+      {"t_es":"Un show del Cirque","t_en":"A Cirque show","d_es":"Varios espectáculos en cartelera; compra con anticipación para mejores asientos.","d_en":"Several shows running; buy ahead for better seats."},
+      {"t_es":"Gran Cañón o Presa Hoover","t_en":"Grand Canyon or Hoover Dam","d_es":"El Cañón está a 2–4 h; la Presa Hoover a solo 45 min.","d_en":"The Canyon is 2–4h away; Hoover Dam just 45 min."},
+      {"t_es":"Fremont Street","t_en":"Fremont Street","d_es":"El Vegas clásico: techo de luces LED y casinos vintage, más barato que el Strip.","d_en":"Classic Vegas: an LED-canopy light show and vintage casinos, cheaper than the Strip."}
+    ],
+    "tip_es":"Los hoteles cobran una 'resort fee' aparte de la tarifa: súmala al comparar precios. Tomar agua constante con ese calor seco es clave.",
+    "tip_en":"Hotels charge a 'resort fee' on top of the room rate: factor it in when comparing prices. Keep drinking water in that dry heat."
+  }
+]
