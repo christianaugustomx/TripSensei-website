@@ -726,5 +726,551 @@
       "pro_tip_es": "Para la costa, vuelo de Aerotucán o Aerus: son avionetas pequeñas y el tramo por carretera son 7-8h de curvas. El precio compensa.",
       "pro_tip_en": "For the coast, take the Aerotucán or Aerus flight: small planes, but the road trip is 7-8h of switchbacks. The price is worth it."
     }
+  },
+  "medellin": {
+    "3": {
+      "title_es": "Itinerario de 3 días en Medellín: lo esencial de la transformación",
+      "title_en": "3-day Medellín itinerary: the essentials of transformation",
+      "intro_es": "Un plan corto y enfocado en lo mejor de Medellín: Comuna 13, El Poblado y Guatapé. Sin extender al Eje Cafetero ni Cartagena.",
+      "intro_en": "A short, focused plan for Medellín's best: Comuna 13, El Poblado and Guatapé. No detours to coffee country or Cartagena.",
+      "days": [
+        {
+          "label_es": "Día 1 — Llegada y El Poblado",
+          "label_en": "Day 1 — Arrival & El Poblado",
+          "morning_es": "Llegada, check-in y café de especialidad en Pergamino o Hija Mía.",
+          "morning_en": "Arrive, check in and specialty coffee at Pergamino or Hija Mía.",
+          "afternoon_es": "Camina Provenza, prueba arepas y descansa en un parque.",
+          "afternoon_en": "Walk Provenza, try arepas and rest in a park.",
+          "evening_es": "Cena en Carmen o Naan; cócteles en un bar de azotea.",
+          "evening_en": "Dinner at Carmen or Naan; cocktails at a rooftop bar."
+        },
+        {
+          "label_es": "Día 2 — Comuna 13 y Centro",
+          "label_en": "Day 2 — Comuna 13 & downtown",
+          "morning_es": "Tour de Comuna 13 con guía local (3 h): historia, grafitis y escaleras eléctricas.",
+          "morning_en": "Comuna 13 tour with a local guide (3h): history, street art and the outdoor escalators.",
+          "afternoon_es": "Plaza Botero y Museo de Antioquia en el Centro.",
+          "afternoon_en": "Plaza Botero and Museo de Antioquia downtown.",
+          "evening_es": "Cena de bandeja paisa en Mondongo's o Hacienda.",
+          "evening_en": "Bandeja paisa dinner at Mondongo's or Hacienda."
+        },
+        {
+          "label_es": "Día 3 — Guatapé y la Piedra del Peñol",
+          "label_en": "Day 3 — Guatapé & El Peñol rock",
+          "morning_es": "Sal a Guatapé (2 h); sube los 740 escalones de la Piedra por la mañana.",
+          "morning_en": "Drive to Guatapé (2h); climb El Peñol's 740 steps in the morning.",
+          "afternoon_es": "Casas con zócalos pintados; almuerzo en el malecón.",
+          "afternoon_en": "Painted-base houses; lunch on the waterfront.",
+          "evening_es": "Regreso a Medellín; última cena en El Poblado.",
+          "evening_en": "Back to Medellín; farewell dinner in El Poblado."
+        }
+      ],
+      "pro_tip_es": "Saca la tarjeta Cívica al llegar (la del Metro): te ahorras el sobreprecio en cada viaje y la vas a usar todos los días en Medellín.",
+      "pro_tip_en": "Grab a Cívica card on arrival (the Metro card): you skip the surcharge on every ride and you'll use the system every day in Medellín."
+    },
+    "5": {
+      "title_es": "Itinerario de 5 días en Medellín: ciudad, Guatapé y café",
+      "title_en": "5-day Medellín itinerary: city, Guatapé and coffee country",
+      "intro_es": "Cinco días te alcanzan para Medellín, Guatapé y un día en una finca de café del Eje Cafetero. Cultura, naturaleza y la mejor taza de café del mundo.",
+      "intro_en": "Five days are enough for Medellín, Guatapé and a day at a coffee farm in the Eje Cafetero. Culture, nature and the world's best coffee.",
+      "days": [
+        {
+          "label_es": "Día 1 — Llegada y El Poblado",
+          "label_en": "Day 1 — Arrival & El Poblado",
+          "morning_es": "Aterriza, check-in y café en Pergamino.",
+          "morning_en": "Land, check in and coffee at Pergamino.",
+          "afternoon_es": "Camina Provenza y prueba arepas.",
+          "afternoon_en": "Walk Provenza and try arepas.",
+          "evening_es": "Cena en Carmen o Mondongo's.",
+          "evening_en": "Dinner at Carmen or Mondongo's."
+        },
+        {
+          "label_es": "Día 2 — Comuna 13 y Centro",
+          "label_en": "Day 2 — Comuna 13 & downtown",
+          "morning_es": "Tour de Comuna 13 con guía local.",
+          "morning_en": "Comuna 13 tour with a local guide.",
+          "afternoon_es": "Free walking tour del Centro y Plaza Botero.",
+          "afternoon_en": "Free walking tour downtown and Plaza Botero.",
+          "evening_es": "Cena de bandeja paisa y mercado nocturno.",
+          "evening_en": "Bandeja paisa dinner and night market."
+        },
+        {
+          "label_es": "Día 3 — Guatapé",
+          "label_en": "Day 3 — Guatapé",
+          "morning_es": "Sal a Guatapé temprano; sube El Peñol al amanecer.",
+          "morning_en": "Early start to Guatapé; climb El Peñol at sunrise.",
+          "afternoon_es": "Almuerzo en el malecón; paseo en lancha por el embalse.",
+          "afternoon_en": "Lunch on the waterfront; boat ride on the reservoir.",
+          "evening_es": "Regreso a Medellín, cena tranquila.",
+          "evening_en": "Back to Medellín, quiet dinner."
+        },
+        {
+          "label_es": "Día 4 — Finca de café (día completo)",
+          "label_en": "Day 4 — Coffee farm (full day)",
+          "morning_es": "Tour a finca de café cerca de Jericó o Concordia (2 h).",
+          "morning_en": "Coffee farm tour near Jericó or Concordia (2h away).",
+          "afternoon_es": "Catación + recorrido por los cafetales con el productor.",
+          "afternoon_en": "Cupping + walk through the fields with the grower.",
+          "evening_es": "Regreso a Medellín; cena en El Poblado.",
+          "evening_en": "Back to Medellín; dinner in El Poblado."
+        },
+        {
+          "label_es": "Día 5 — Metrocable + Arví",
+          "label_en": "Day 5 — Metrocable + Arví",
+          "morning_es": "Metrocable a Arví; caminata corta en el parque ecológico.",
+          "morning_en": "Metrocable to Arví; short hike in the ecological park.",
+          "afternoon_es": "Compras en Provenza o el Tesoro.",
+          "afternoon_en": "Shopping in Provenza or El Tesoro.",
+          "evening_es": "Despedida en un rooftop o un bar de la Provenza.",
+          "evening_en": "Farewell at a rooftop or a Provenza bar."
+        }
+      ],
+      "pro_tip_es": "Para la finca de café, contrata un tour privado en vez de bus: el camino tiene muchas curvas y un guía con vehículo propio te ahorra 2 h de transbordo.",
+      "pro_tip_en": "For the coffee farm, book a private tour instead of the bus: the road has tons of switchbacks and a guide with their own vehicle saves you 2h of transfers."
+    },
+    "7": {
+      "title_es": "Itinerario de 7 días en Medellín: con Cartagena y el Eje Cafetero",
+      "title_en": "7-day Medellín itinerary: with Cartagena and the coffee triangle",
+      "intro_es": "Una semana te permite combinar Medellín con Cartagena (vuelo de 1 h) y dos noches en una finca de café. Doble cultura, dos climas, una sola fiesta.",
+      "intro_en": "A week lets you pair Medellín with Cartagena (1h flight) plus two nights at a coffee farm. Two cultures, two climates, one party.",
+      "days": [
+        {
+          "label_es": "Día 1 — Llegada + El Poblado",
+          "label_en": "Day 1 — Arrival + El Poblado",
+          "morning_es": "Llegada, check-in y café.",
+          "morning_en": "Arrive, check in and coffee.",
+          "afternoon_es": "Camina Provenza.",
+          "afternoon_en": "Walk Provenza.",
+          "evening_es": "Cena en Carmen.",
+          "evening_en": "Dinner at Carmen."
+        },
+        {
+          "label_es": "Día 2 — Comuna 13 y Centro",
+          "label_en": "Day 2 — Comuna 13 & downtown",
+          "morning_es": "Tour de Comuna 13.",
+          "morning_en": "Comuna 13 tour.",
+          "afternoon_es": "Plaza Botero y Museo de Antioquia.",
+          "afternoon_en": "Plaza Botero and Museo de Antioquia.",
+          "evening_es": "Bandeja paisa.",
+          "evening_en": "Bandeja paisa."
+        },
+        {
+          "label_es": "Día 3 — Guatapé",
+          "label_en": "Day 3 — Guatapé",
+          "morning_es": "Sube la Piedra del Peñol al amanecer.",
+          "morning_en": "Climb El Peñol at sunrise.",
+          "afternoon_es": "Casas pintadas y comida en el malecón.",
+          "afternoon_en": "Painted houses and lunch on the waterfront.",
+          "evening_es": "Regreso a Medellín.",
+          "evening_en": "Back to Medellín."
+        },
+        {
+          "label_es": "Día 4 — Finca de café (overnight)",
+          "label_en": "Day 4 — Coffee farm (overnight)",
+          "morning_es": "Traslado a la finca (2 h); recorrido de los cafetales.",
+          "morning_en": "Transfer to the farm (2h); tour of the fields.",
+          "afternoon_es": "Catación con el productor.",
+          "afternoon_en": "Cupping with the grower.",
+          "evening_es": "Pernocta en la finca; cena casera.",
+          "evening_en": "Overnight at the farm; home-cooked dinner."
+        },
+        {
+          "label_es": "Día 5 — Cafetales y regreso",
+          "label_en": "Day 5 — Coffee fields and return",
+          "morning_es": "Caminata por los cafetales al amanecer.",
+          "morning_en": "Sunrise walk through the fields.",
+          "afternoon_es": "Regreso a Medellín; siesta y café en El Poblado.",
+          "afternoon_en": "Back to Medellín; nap and coffee in El Poblado.",
+          "evening_es": "Cena tranquila.",
+          "evening_en": "Quiet dinner."
+        },
+        {
+          "label_es": "Día 6 — Vuelo a Cartagena",
+          "label_en": "Day 6 — Flight to Cartagena",
+          "morning_es": "Vuelo a Cartagena (1 h); check-in en la ciudad amurallada.",
+          "morning_en": "Flight to Cartagena (1h); check in inside the walled city.",
+          "afternoon_es": "Caminata por las murallas al atardecer.",
+          "afternoon_en": "Walk the walls at sunset.",
+          "evening_es": "Cena en Getsemaní; bar en Plaza Trinidad.",
+          "evening_en": "Dinner in Getsemaní; bar at Plaza Trinidad."
+        },
+        {
+          "label_es": "Día 7 — Islas del Rosario o regreso",
+          "label_en": "Day 7 — Rosario Islands or return",
+          "morning_es": "Lancha a Islas del Rosario (medio día) si tienes tiempo.",
+          "morning_en": "Boat to Rosario Islands (half day) if time allows.",
+          "afternoon_es": "Última comida en Cartagena.",
+          "afternoon_en": "Last meal in Cartagena.",
+          "evening_es": "Vuelo de regreso desde Cartagena (más conexiones internacionales).",
+          "evening_en": "Flight home from Cartagena (more international connections)."
+        }
+      ],
+      "pro_tip_es": "Si vas a Cartagena, vuela de salida desde allí: tiene más conexiones internacionales que el aeropuerto de Medellín y te ahorras el regreso por tierra.",
+      "pro_tip_en": "If you visit Cartagena, fly home from there: more international connections than Medellín's airport and you skip the overland return."
+    }
+  },
+  "san-miguel-de-allende": {
+    "3": {
+      "title_es": "Itinerario de 3 días en San Miguel de Allende: rooftops, arte y comida",
+      "title_en": "3-day San Miguel de Allende itinerary: rooftops, art and food",
+      "intro_es": "Tres días son ideales para San Miguel: el centro colonial cabe en dos días y queda uno para una excursión a Guanajuato o Atotonilco.",
+      "intro_en": "Three days are ideal for San Miguel: the colonial center fits in two days and you have one for a trip to Guanajuato or Atotonilco.",
+      "days": [
+        {
+          "label_es": "Día 1 — Centro y rooftops",
+          "label_en": "Day 1 — Centro and rooftops",
+          "morning_es": "Llegada, check-in y café en Lavanda o Néctar.",
+          "morning_en": "Arrive, check in and coffee at Lavanda or Néctar.",
+          "afternoon_es": "Jardín Principal, Parroquia y Casa de Allende.",
+          "afternoon_en": "Jardín Principal, Parroquia and Casa de Allende.",
+          "evening_es": "Atardecer en rooftop (La Azotea o Luna Tapas) frente a la Parroquia.",
+          "evening_en": "Sunset at a rooftop (La Azotea or Luna Tapas) facing the Parroquia."
+        },
+        {
+          "label_es": "Día 2 — Arte y mercados",
+          "label_en": "Day 2 — Art and markets",
+          "morning_es": "Fábrica La Aurora: galerías, café y diseño.",
+          "morning_en": "Fábrica La Aurora: galleries, coffee and design.",
+          "afternoon_es": "Mercado de Artesanías y Calle Zacateros para plata y textiles.",
+          "afternoon_en": "Mercado de Artesanías and Calle Zacateros for silver and textiles.",
+          "evening_es": "Cena en Aperi o La Parada.",
+          "evening_en": "Dinner at Aperi or La Parada."
+        },
+        {
+          "label_es": "Día 3 — Guanajuato (día completo)",
+          "label_en": "Day 3 — Guanajuato (full day)",
+          "morning_es": "Bus a Guanajuato (1.5 h); callejones, Teatro Juárez y túneles.",
+          "morning_en": "Bus to Guanajuato (1.5h); alleys, Teatro Juárez and tunnels.",
+          "afternoon_es": "Sube al Pípila por el funicular para la vista postal.",
+          "afternoon_en": "Funicular to El Pípila for the postcard view.",
+          "evening_es": "Regreso a San Miguel; cena tranquila.",
+          "evening_en": "Back to San Miguel; quiet dinner."
+        }
+      ],
+      "pro_tip_es": "Las rentas turísticas dejaron a SMA con poco hotel local; reserva con 2-3 meses si vas en temporada alta (oct-abr) o en Día de Muertos.",
+      "pro_tip_en": "Short-term rentals crowd out local hotels in SMA; book 2-3 months ahead for high season (Oct-Apr) or Day of the Dead."
+    },
+    "5": {
+      "title_es": "Itinerario de 5 días en San Miguel de Allende: con Guanajuato y aguas termales",
+      "title_en": "5-day San Miguel de Allende itinerary: with Guanajuato and hot springs",
+      "intro_es": "Cinco días te dan espacio para sumar Guanajuato, las aguas termales de La Gruta y una clase de cocina sin correr.",
+      "intro_en": "Five days let you add Guanajuato, the La Gruta hot springs and a cooking class without rushing.",
+      "days": [
+        {
+          "label_es": "Día 1 — Centro y rooftops",
+          "label_en": "Day 1 — Centro and rooftops",
+          "morning_es": "Llegada y café en Lavanda.",
+          "morning_en": "Arrive and coffee at Lavanda.",
+          "afternoon_es": "Jardín Principal y Parroquia.",
+          "afternoon_en": "Jardín Principal and Parroquia.",
+          "evening_es": "Atardecer en La Azotea.",
+          "evening_en": "Sunset at La Azotea."
+        },
+        {
+          "label_es": "Día 2 — Arte y mercados",
+          "label_en": "Day 2 — Art and markets",
+          "morning_es": "Fábrica La Aurora.",
+          "morning_en": "Fábrica La Aurora.",
+          "afternoon_es": "Mercado de Artesanías y Calle Zacateros.",
+          "afternoon_en": "Mercado de Artesanías and Calle Zacateros.",
+          "evening_es": "Cena en Aperi.",
+          "evening_en": "Dinner at Aperi."
+        },
+        {
+          "label_es": "Día 3 — Guanajuato (día completo)",
+          "label_en": "Day 3 — Guanajuato (full day)",
+          "morning_es": "Bus a Guanajuato; Mercado Hidalgo y Teatro Juárez.",
+          "morning_en": "Bus to Guanajuato; Mercado Hidalgo and Teatro Juárez.",
+          "afternoon_es": "Sube al Pípila; cata de vinos local.",
+          "afternoon_en": "Up to El Pípila; local wine tasting.",
+          "evening_es": "Regreso a San Miguel.",
+          "evening_en": "Back to San Miguel."
+        },
+        {
+          "label_es": "Día 4 — La Gruta y Atotonilco",
+          "label_en": "Day 4 — La Gruta and Atotonilco",
+          "morning_es": "Aguas termales en La Gruta (abre a las 7 am, evita multitudes).",
+          "morning_en": "Hot springs at La Gruta (opens 7 am, beat the crowds).",
+          "afternoon_es": "Santuario de Atotonilco (UNESCO).",
+          "afternoon_en": "Atotonilco Sanctuary (UNESCO).",
+          "evening_es": "Cena en La Posadita.",
+          "evening_en": "Dinner at La Posadita."
+        },
+        {
+          "label_es": "Día 5 — Clase de cocina y compras",
+          "label_en": "Day 5 — Cooking class and shopping",
+          "morning_es": "Clase de cocina mexicana en Sazón.",
+          "morning_en": "Mexican cooking class at Sazón.",
+          "afternoon_es": "Última compra de artesanías; café en Lavanda.",
+          "afternoon_en": "Last craft shopping; coffee at Lavanda.",
+          "evening_es": "Despedida en rooftop.",
+          "evening_en": "Rooftop farewell."
+        }
+      ],
+      "pro_tip_es": "Para La Gruta llega a las 7 am cuando abre: es la hora local. Después de las 10 llegan los autobuses turísticos y se siente como spa público.",
+      "pro_tip_en": "For La Gruta, arrive at 7 am opening: that's the local hour. After 10 the tour buses arrive and it feels like a public bathhouse."
+    },
+    "7": {
+      "title_es": "Itinerario de 7 días en San Miguel de Allende: el Bajío completo",
+      "title_en": "7-day San Miguel de Allende itinerary: the full Bajío",
+      "intro_es": "Una semana te alcanza para San Miguel, Guanajuato, Querétaro y la ruta del vino. Combina colonial, gastronomía y enología en un mismo viaje.",
+      "intro_en": "A week covers San Miguel, Guanajuato, Querétaro and the wine route. Combines colonial, food and wine in one trip.",
+      "days": [
+        {
+          "label_es": "Día 1 — Centro y rooftops",
+          "label_en": "Day 1 — Centro and rooftops",
+          "morning_es": "Llegada y café en Lavanda.",
+          "morning_en": "Arrive and coffee at Lavanda.",
+          "afternoon_es": "Jardín Principal y Parroquia.",
+          "afternoon_en": "Jardín Principal and Parroquia.",
+          "evening_es": "Atardecer en La Azotea.",
+          "evening_en": "Sunset at La Azotea."
+        },
+        {
+          "label_es": "Día 2 — Arte y mercados",
+          "label_en": "Day 2 — Art and markets",
+          "morning_es": "Fábrica La Aurora.",
+          "morning_en": "Fábrica La Aurora.",
+          "afternoon_es": "Mercado de Artesanías.",
+          "afternoon_en": "Mercado de Artesanías.",
+          "evening_es": "Cena en Aperi.",
+          "evening_en": "Dinner at Aperi."
+        },
+        {
+          "label_es": "Día 3 — Guanajuato",
+          "label_en": "Day 3 — Guanajuato",
+          "morning_es": "Bus a Guanajuato; callejones y Teatro Juárez.",
+          "morning_en": "Bus to Guanajuato; alleys and Teatro Juárez.",
+          "afternoon_es": "Pípila y comida en San Fernando.",
+          "afternoon_en": "El Pípila and lunch at San Fernando.",
+          "evening_es": "Regreso a San Miguel.",
+          "evening_en": "Back to San Miguel."
+        },
+        {
+          "label_es": "Día 4 — La Gruta y Atotonilco",
+          "label_en": "Day 4 — La Gruta and Atotonilco",
+          "morning_es": "Aguas termales temprano.",
+          "morning_en": "Hot springs early.",
+          "afternoon_es": "Santuario de Atotonilco.",
+          "afternoon_en": "Atotonilco Sanctuary.",
+          "evening_es": "Cena local.",
+          "evening_en": "Local dinner."
+        },
+        {
+          "label_es": "Día 5 — Ruta del vino de Querétaro",
+          "label_en": "Day 5 — Querétaro wine route",
+          "morning_es": "Sal a Bernal (40 min); sube La Peña.",
+          "morning_en": "Drive to Bernal (40 min); climb La Peña.",
+          "afternoon_es": "Cata en Freixenet o Viñedos La Redonda.",
+          "afternoon_en": "Tasting at Freixenet or Viñedos La Redonda.",
+          "evening_es": "Regreso a San Miguel.",
+          "evening_en": "Back to San Miguel."
+        },
+        {
+          "label_es": "Día 6 — Querétaro centro",
+          "label_en": "Day 6 — Querétaro centro",
+          "morning_es": "Centro histórico de Querétaro (1 h); acueducto.",
+          "morning_en": "Querétaro historic center (1h); aqueduct.",
+          "afternoon_es": "Comida y barrio del Cerrito.",
+          "afternoon_en": "Lunch and Cerrito neighborhood.",
+          "evening_es": "Regreso a San Miguel.",
+          "evening_en": "Back to San Miguel."
+        },
+        {
+          "label_es": "Día 7 — Clase de cocina y despedida",
+          "label_en": "Day 7 — Cooking class and farewell",
+          "morning_es": "Clase de cocina o un masaje de spa.",
+          "morning_en": "Cooking class or a spa massage.",
+          "afternoon_es": "Última compra; café en Lavanda.",
+          "afternoon_en": "Last shopping; coffee at Lavanda.",
+          "evening_es": "Cena de despedida.",
+          "evening_en": "Farewell dinner."
+        }
+      ],
+      "pro_tip_es": "Para la ruta del vino, sale temprano para catar a mediodía: las viñas cierran cocina entre 4-5 pm y cenar en Bernal antes del regreso no es buena idea.",
+      "pro_tip_en": "For the wine route, leave early to taste around noon: wineries close their kitchens by 4-5 pm and dinner in Bernal before the drive back isn't a great idea."
+    }
+  },
+  "merida": {
+    "3": {
+      "title_es": "Itinerario de 3 días en Mérida: Chichén Itzá, cenotes y cocina yucateca",
+      "title_en": "3-day Mérida itinerary: Chichén Itzá, cenotes and Yucatecan food",
+      "intro_es": "Tres días en Mérida son ideales para combinar el centro histórico con Chichén Itzá y un circuito de cenotes. Sin extender a Tulum ni la costa.",
+      "intro_en": "Three days in Mérida are ideal to combine the historic center with Chichén Itzá and a cenote circuit. No detours to Tulum or the coast.",
+      "days": [
+        {
+          "label_es": "Día 1 — Centro histórico y Paseo de Montejo",
+          "label_en": "Day 1 — Historic center & Paseo de Montejo",
+          "morning_es": "Llegada, check-in y café en La Esquina de la Abuela.",
+          "morning_en": "Arrive, check in and coffee at La Esquina de la Abuela.",
+          "afternoon_es": "Catedral, Casa de Montejo y Museo del Mundo Maya.",
+          "afternoon_en": "Cathedral, Casa de Montejo and the Mayan World Museum.",
+          "evening_es": "Cena de cochinita pibil en La Chaya Maya.",
+          "evening_en": "Cochinita pibil dinner at La Chaya Maya."
+        },
+        {
+          "label_es": "Día 2 — Chichén Itzá",
+          "label_en": "Day 2 — Chichén Itzá",
+          "morning_es": "Sal a las 6 am hacia Chichén Itzá; entra a las 8 am.",
+          "morning_en": "Leave at 6 am for Chichén Itzá; enter at 8 am.",
+          "afternoon_es": "Visita Valladolid y nada en Cenote Suytun o Zaci.",
+          "afternoon_en": "Visit Valladolid and swim at Cenote Suytun or Zaci.",
+          "evening_es": "Regreso a Mérida; cena en Manjar Blanco.",
+          "evening_en": "Back to Mérida; dinner at Manjar Blanco."
+        },
+        {
+          "label_es": "Día 3 — Cenotes de Cuzamá",
+          "label_en": "Day 3 — Cuzamá cenotes",
+          "morning_es": "Circuito de tres cenotes en truck por la jungla (Cuzamá).",
+          "morning_en": "Three-cenote horse-drawn rail circuit through the jungle (Cuzamá).",
+          "afternoon_es": "Comida en Acanceh o Tecoh; vuelve a Mérida.",
+          "afternoon_en": "Lunch in Acanceh or Tecoh; back to Mérida.",
+          "evening_es": "Última cena yucateca y despedida.",
+          "evening_en": "Last Yucatecan dinner and farewell."
+        }
+      ],
+      "pro_tip_es": "Para Chichén Itzá sale antes de las 7 am: a las 9 ya llegan los autobuses turísticos de Cancún y se llena por completo.",
+      "pro_tip_en": "For Chichén Itzá, leave before 7 am: by 9 the tour buses from Cancún arrive and it gets packed."
+    },
+    "5": {
+      "title_es": "Itinerario de 5 días en Mérida: con Uxmal, Izamal y los flamingos de Celestún",
+      "title_en": "5-day Mérida itinerary: with Uxmal, Izamal and the Celestún flamingos",
+      "intro_es": "Cinco días te dan espacio para Mérida, Chichén Itzá, Uxmal y un día en Izamal o Celestún para ver flamingos rosados.",
+      "intro_en": "Five days give you room for Mérida, Chichén Itzá, Uxmal and a day in Izamal or Celestún to see pink flamingos.",
+      "days": [
+        {
+          "label_es": "Día 1 — Centro histórico",
+          "label_en": "Day 1 — Historic center",
+          "morning_es": "Llegada y café en el Zócalo.",
+          "morning_en": "Arrive and coffee in the Zócalo.",
+          "afternoon_es": "Catedral, Casa de Montejo y Paseo de Montejo.",
+          "afternoon_en": "Cathedral, Casa de Montejo and Paseo de Montejo.",
+          "evening_es": "Cena yucateca en La Chaya Maya.",
+          "evening_en": "Yucatecan dinner at La Chaya Maya."
+        },
+        {
+          "label_es": "Día 2 — Chichén Itzá + Valladolid",
+          "label_en": "Day 2 — Chichén Itzá + Valladolid",
+          "morning_es": "Salida temprana a Chichén Itzá.",
+          "morning_en": "Early start for Chichén Itzá.",
+          "afternoon_es": "Comida y cenotes en Valladolid.",
+          "afternoon_en": "Lunch and cenotes in Valladolid.",
+          "evening_es": "Regreso a Mérida.",
+          "evening_en": "Back to Mérida."
+        },
+        {
+          "label_es": "Día 3 — Cenotes de Cuzamá",
+          "label_en": "Day 3 — Cuzamá cenotes",
+          "morning_es": "Circuito de tres cenotes (Cuzamá).",
+          "morning_en": "Three-cenote circuit (Cuzamá).",
+          "afternoon_es": "Comida local y regreso a Mérida.",
+          "afternoon_en": "Local lunch and back to Mérida.",
+          "evening_es": "Mercado nocturno y mezcal.",
+          "evening_en": "Night market and mezcal."
+        },
+        {
+          "label_es": "Día 4 — Uxmal y Ruta Puuc",
+          "label_en": "Day 4 — Uxmal and the Puuc Route",
+          "morning_es": "Sal a Uxmal (1.5 h); pirámides con menos gente que Chichén.",
+          "morning_en": "Drive to Uxmal (1.5h); pyramids with fewer crowds than Chichén.",
+          "afternoon_es": "Para en Kabah y Sayil (Ruta Puuc).",
+          "afternoon_en": "Stop at Kabah and Sayil (Puuc Route).",
+          "evening_es": "Regreso a Mérida; cena yucateca.",
+          "evening_en": "Back to Mérida; Yucatecan dinner."
+        },
+        {
+          "label_es": "Día 5 — Izamal o Celestún",
+          "label_en": "Day 5 — Izamal or Celestún",
+          "morning_es": "Izamal (la ciudad amarilla) o Celestún para ver flamingos rosados.",
+          "morning_en": "Izamal (the yellow city) or Celestún to see pink flamingos.",
+          "afternoon_es": "Comida local en cualquier opción.",
+          "afternoon_en": "Local lunch either way.",
+          "evening_es": "Última cena en Mérida.",
+          "evening_en": "Last dinner in Mérida."
+        }
+      ],
+      "pro_tip_es": "Para Celestún ve un domingo: hay más lanchas locales, los precios bajan 30% y los flamingos están más activos en la mañana.",
+      "pro_tip_en": "For Celestún go on a Sunday: more local boats, prices drop 30% and the flamingos are more active in the morning."
+    },
+    "7": {
+      "title_es": "Itinerario de 7 días en Mérida: Yucatán completo",
+      "title_en": "7-day Mérida itinerary: the full Yucatán",
+      "intro_es": "Una semana en Yucatán te alcanza para Mérida, Chichén Itzá, Uxmal, Valladolid y un par de noches en Izamal y Celestún. La Yucatán que los tours de Cancún no ven.",
+      "intro_en": "A week in Yucatán covers Mérida, Chichén Itzá, Uxmal, Valladolid and a couple of nights in Izamal and Celestún. The Yucatán the Cancún tours don't see.",
+      "days": [
+        {
+          "label_es": "Día 1 — Centro y Paseo de Montejo",
+          "label_en": "Day 1 — Centro and Paseo de Montejo",
+          "morning_es": "Llegada y café.",
+          "morning_en": "Arrive and coffee.",
+          "afternoon_es": "Catedral y Paseo de Montejo.",
+          "afternoon_en": "Cathedral and Paseo de Montejo.",
+          "evening_es": "Cena yucateca.",
+          "evening_en": "Yucatecan dinner."
+        },
+        {
+          "label_es": "Día 2 — Chichén Itzá + Valladolid (overnight)",
+          "label_en": "Day 2 — Chichén Itzá + Valladolid (overnight)",
+          "morning_es": "Chichén Itzá temprano.",
+          "morning_en": "Chichén Itzá early.",
+          "afternoon_es": "Cenotes y centro de Valladolid.",
+          "afternoon_en": "Cenotes and Valladolid centro.",
+          "evening_es": "Pernocta en Valladolid (más barato y tranquilo).",
+          "evening_en": "Overnight in Valladolid (cheaper and quieter)."
+        },
+        {
+          "label_es": "Día 3 — Cenotes y regreso",
+          "label_en": "Day 3 — Cenotes and return",
+          "morning_es": "Más cenotes cerca de Valladolid.",
+          "morning_en": "More cenotes around Valladolid.",
+          "afternoon_es": "Regreso a Mérida.",
+          "afternoon_en": "Back to Mérida.",
+          "evening_es": "Cena tranquila.",
+          "evening_en": "Quiet dinner."
+        },
+        {
+          "label_es": "Día 4 — Uxmal y Ruta Puuc",
+          "label_en": "Day 4 — Uxmal and Puuc Route",
+          "morning_es": "Uxmal y Kabah.",
+          "morning_en": "Uxmal and Kabah.",
+          "afternoon_es": "Sayil y regreso.",
+          "afternoon_en": "Sayil and return.",
+          "evening_es": "Mercado nocturno.",
+          "evening_en": "Night market."
+        },
+        {
+          "label_es": "Día 5 — Izamal",
+          "label_en": "Day 5 — Izamal",
+          "morning_es": "Izamal: ciudad amarilla y convento franciscano.",
+          "morning_en": "Izamal: yellow city and Franciscan convent.",
+          "afternoon_es": "Comida local y artesanías.",
+          "afternoon_en": "Local lunch and crafts.",
+          "evening_es": "Regreso a Mérida.",
+          "evening_en": "Back to Mérida."
+        },
+        {
+          "label_es": "Día 6 — Celestún (flamingos)",
+          "label_en": "Day 6 — Celestún (flamingos)",
+          "morning_es": "Lancha en la ría para ver flamingos rosados.",
+          "morning_en": "Boat in the estuary to see pink flamingos.",
+          "afternoon_es": "Pescado fresco frente al mar.",
+          "afternoon_en": "Fresh fish by the sea.",
+          "evening_es": "Regreso a Mérida.",
+          "evening_en": "Back to Mérida."
+        },
+        {
+          "label_es": "Día 7 — Despedida",
+          "label_en": "Day 7 — Farewell",
+          "morning_es": "Compra de hamacas en Tixkokob.",
+          "morning_en": "Hammock shopping in Tixkokob.",
+          "afternoon_es": "Última cochinita.",
+          "afternoon_en": "Last cochinita.",
+          "evening_es": "Vuelo de regreso desde Mérida.",
+          "evening_en": "Flight home from Mérida."
+        }
+      ],
+      "pro_tip_es": "Las hamacas yucatecas auténticas se compran en Tixkokob (afuera de Mérida), no en el centro turístico. La calidad es el doble y los precios la mitad.",
+      "pro_tip_en": "Authentic Yucatecan hammocks are made in Tixkokob (outside Mérida), not in the tourist center. Twice the quality, half the price."
+    }
   }
 }
